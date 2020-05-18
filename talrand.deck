@@ -1,0 +1,120 @@
+[1] Talrand, Sky Summoner
+
+// Ramp
+[1] Sol Ring @ramp
+[1] Thought Vessel @ramp
+[1] Sapphire Medallion @ramp
+[1] Worn Powerstone @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Sword of the Animist @ramp
+[1] Mitotic Manipulation @ramp
+[1] Retraced Image @ramp
+[1] Jace's Sanctum @ramp @scry
+[1] Primal Amulet @ramp
+
+// Draw
+[1] Pull from Tomorrow @draw
+[1] Blue Sun's Zenith @draw
+[1] Fact or Fiction @draw
+[1] Precognitive Perception @draw
+[1] Chemister's Insight @draw
+[1] Treasure Cruise @draw
+[1] Dig Through Time @draw
+[1] Future Sight @draw
+[1] Bident of Thassa @draw
+[1] Coastal Piracy @draw
+
+// Removal
+[1] Inundate @wipe
+[1] Scourge of Fleets @wipe
+[1] Engulf the Shore @wipe
+[1] Aether Gale @wipe
+[1] Reality Shift @creature_removal
+[1] Curse of the Swine @creature_removal
+[1] Pongify @creature_removal
+[1] Rapid Hybridization @creature_removal
+[1] Into the Roil @permanent_removal @cantrip
+[1] Blink of an Eye @permanent_removal @cantrip
+
+// Commander Protection
+[1] Swiftfoot Boots @commander_protection
+[1] Neurok Stealthsuit @commander_protection
+[1] Lightning Greaves @commander_protection
+
+// Counterspells
+[1] Swan Song @counter
+[1] Counterspell @counter
+[1] Negate @counter
+[1] Arcane Denial @counter
+[1] Wizard's Retort @counter
+[1] Disallow @counter
+[1] Unwind @counter
+[1] Insidious Will @counter @copy
+[1] Foil @counter
+[1] Pact of Negation @counter
+
+// Pillow Fort
+[1] Domineering Will @pillow_fort
+[1] Polymorphist's Jest @pillow_fort
+[1] Reins of Power @pillow_fort
+[1] Aetherize @pillow_fort
+[1] Aetherspouts @pillow_fort
+
+// Cantrip
+[1] Ponder @cantrip
+[1] Impulse @cantrip
+[1] Telling Time @cantrip
+[1] Serum Visions @cantrip @scry
+[1] Preordain @cantrip
+[1] Anticipate @cantrip
+[1] Scour All Possibilities @cantrip
+[1] Think Twice @cantrip
+
+// Graveyard Recursion
+[1] Flood of Recollection @graveyard_recursion
+[1] Mission Briefing @graveyard_recursion
+[1] The Mirari Conjecture @graveyard_recursion
+
+// Misc
+[1] Relic of Progenitus @graveyard_hate
+[1] Twincast @copy
+[1] Narset's Reversal @copy
+[1] Mystical Tutor @tutor
+[1] Merchant Scroll @tutor
+[1] Polymorph @polymorph
+[1] Reweave @polymorph
+[1] Proteus Staff @polymorph
+[1] High Tide
+[1] Standstill
+[1] Overburden
+[1] Favorable Winds
+[1] Gravitational Shift
+[1] Metallurgic Summonings
+[1] Stolen Identity @cipher
+[1] Hidden Strings @cipher
+[1] Sphinx of the Final Word
+[1] God-Eternal Kefnet
+[1] Jin-Gitaxias, Core Augur
+
+// Lands
+[1] Myriad Landscape
+[1] Reliquary Tower
+[1] Scavenger Grounds @graveyard_hate
+[1] Tectonic Edge
+[1] Ghost Quarter
+[1] Thespian's Stage
+[1] Lonely Sandbar
+[1] Desert of the Mindful
+[1] Remote Isle
+[1] Blasted Landscape
+[27] Island
+
+// Dissolve
+// Dissipate
+// Blustersquall
+// Disdainful Stroke
+// Devastation Tide
+// Sphinx-Bone Wand
+// Illusionist's Gambit
+// Mystic Confluence
+// Brainstorm

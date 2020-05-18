@@ -1,0 +1,165 @@
+[1] Rubinia Soulsinger {manacost: "{2}{W}{U}{G}", colors: "WUG", types: [Creature], cmc: 5.00} @ramp
+
+// Ramp
+[1] Sol Ring {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
+
+// Draw
+[1] Intellectual Offering {manacost: "{4}{U}", colors: "U", types: [Instant], cmc: 5.00} @draw @untap
+[1] Isperia, Supreme Judge {manacost: "{2}{W}{W}{U}{U}", colors: "WU", types: [Creature], cmc: 6.00} @draw @defense
+[1] Beast Whisperer {manacost: "{2}{G}{G}", colors: "G", types: [Creature], cmc: 4.00} @draw
+[1] Lifecrafter's Bestiary {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @draw
+[1] Vanquisher's Banner {manacost: "{5}", colors: "", types: [Artifact], cmc: 5.00} @draw @lord
+[1] Remembrance {manacost: "{3}{W}", colors: "W", types: [Enchantment], cmc: 4.00} @draw
+[1] Evolutionary Leap {manacost: "{1}{G}", colors: "G", types: [Enchantment], cmc: 2.00} @sac_outlet @draw
+[1] Tamiyo, Collector of Tales {manacost: "{2}{U}{G}", colors: "UG", types: [Planeswalker], cmc: 4.00} @draw
+[1] Wild Pair {manacost: "{4}{G}{G}", colors: "G", types: [Enchantment], cmc: 6.00} @draw
+
+// Point Removal
+[1] Swords to Plowshares {manacost: "{W}", colors: "W", types: [Instant], cmc: 1.00} @creature_removal
+[1] Reality Shift {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @creature_removal
+[1] Beast Within {manacost: "{2}{G}", colors: "G", types: [Instant], cmc: 3.00} @permanent_removal
+[1] Devout Chaplain {manacost: "{2}{W}", colors: "W", types: [Creature], cmc: 3.00} @artifact_removal @enchantment_removal
+[1] Krosan Grip {manacost: "{2}{G}", colors: "G", types: [Instant], cmc: 3.00} @artifact_removal @enchantment_removal
+
+// Wipe
+[1] Slaughter the Strong {manacost: "{1}{W}{W}", colors: "W", types: [Sorcery], cmc: 3.00} @wipe
+[1] Fell the Mighty {manacost: "{4}{W}", colors: "W", types: [Sorcery], cmc: 5.00} @wipe
+[1] Dusk // Dawn {manacost: "{5}{W}{W}{W}{W}", colors: "W", types: [Sorcery], cmc: 9.00} @wipe @graveyard_recursion
+[1] Solar Tide {manacost: "{4}{W}{W}", colors: "W", types: [Sorcery], cmc: 6.00} @wipe
+
+// Advisor
+[16] Persistent Petitioners {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @advisor
+[01] Orzhov Advokist {manacost: "{2}{W}", colors: "W", types: [Creature], cmc: 3.00} @advisor @defense
+[01] Adaptive Automaton {manacost: "{3}", colors: "", types: [Artifact, Creature], cmc: 3.00} @advisor @lord
+[01] Metallic Mimic {manacost: "{2}", colors: "", types: [Artifact, Creature], cmc: 2.00} @advisor @lord
+[01] Michiko Konda, Truth Seeker {manacost: "{3}{W}", colors: "W", types: [Creature], cmc: 4.00} @advisor @defense
+[01] Minister of Impediments {manacost: "{2}{W/U}", colors: "WU", types: [Creature], cmc: 3.00} @advisor
+[01] Kongming, Sleeping Dragon {manacost: "{2}{W}{W}", colors: "W", types: [Creature], cmc: 4.00} @advisor @lord
+[01] Grand Arbiter Augustin IV {manacost: "{2}{W}{U}", colors: "WU", types: [Creature], cmc: 4.00} @advisor @ramp
+[01] Tomik, Distinguished Advokist {manacost: "{W}{W}", colors: "W", types: [Creature], cmc: 2.00} @advisor
+
+// Clones
+[1] Clever Impersonator {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @clone
+[1] Stunt Double {manacost: "{3}{U}", colors: "U", types: [Creature], cmc: 4.00} @clone
+
+// Untap
+[1] Awakening {manacost: "{2}{G}{G}", colors: "G", types: [Enchantment], cmc: 4.00} @untap
+[1] Reveille Squad {manacost: "{2}{W}{W}", colors: "W", types: [Creature], cmc: 4.00} @untap
+[1] Murkfiend Liege {manacost: "{2}", colors: "UG", types: [Creature], cmc: 5.00} @untap
+[1] Quest for Renewal {manacost: "{1}{G}", colors: "G", types: [Enchantment], cmc: 2.00} @untap
+[1] Seedborn Muse {manacost: "{3}{G}{G}", colors: "G", types: [Creature], cmc: 5.00} @untap
+
+// Mill
+[1] Memory Erosion {manacost: "{1}{U}{U}", colors: "U", types: [Enchantment], cmc: 3.00} @mill
+[1] Mindcrank {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @mill
+
+// Defense
+[1] Propaganda {manacost: "{2}{U}", colors: "U", types: [Enchantment], cmc: 3.00} @defense
+[1] Ghostly Prison {manacost: "{2}{W}", colors: "W", types: [Enchantment], cmc: 3.00} @defense
+[1] Dissipation Field {manacost: "{2}{U}{U}", colors: "U", types: [Enchantment], cmc: 4.00} @defense
+
+// Graveyard Recursion
+[1] Sun Titan {manacost: "{4}{W}{W}", colors: "W", types: [Creature], cmc: 6.00} @graveyard_recursion
+[1] Angel of Glory's Rise {manacost: "{5}{W}{W}", colors: "W", types: [Creature], cmc: 7.00} @graveyard_recursion
+[1] Creeping Renaissance {manacost: "{3}{G}{G}", colors: "G", types: [Sorcery], cmc: 5.00} @graveyard_recursion
+[1] Verdant Confluence {manacost: "{4}{G}{G}", colors: "G", types: [Sorcery], cmc: 6.00} @graveyard_recursion
+[1] Bishop of Rebirth {manacost: "{3}{W}{W}", colors: "W", types: [Creature], cmc: 5.00} @graveyard_recursion
+
+// Misc
+[1] Illusionist's Bracers {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00}
+[1] Lightning Greaves {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00}
+
+// Lands
+[1] High Market {manacost: "", colors: "", types: [Land], cmc: 0.00} @sac_outlet
+[1] Mystifying Maze {manacost: "", colors: "", types: [Land], cmc: 0.00} @defense
+[1] Thespian's Stage {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Ghost Quarter {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Tectonic Edge {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Field of Ruin {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Terramorphic Expanse {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Evolving Wilds {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Blighted Woodland {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Seaside Citadel {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Breeding Pool {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Sungrass Prairie {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Yavimaya Coast {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Prairie Stream {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Canopy Vista {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Port Town {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Fortified Village {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Simic Guildgate {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Selesnya Guildgate {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Azorius Guildgate {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[4] Forest {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[8] Island {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[5] Plains {manacost: "", colors: "", types: [Land], cmc: 0.00}
+
+// Reanimation
+// Bishop of Rebirth
+// Creeping Renaissance
+// Verdant Confluence
+// Return to the Ranks
+// Reveillark
+// Emeria Shepherd
+// Faith's Reward
+// Genesis
+// Nostalgic Dreams
+// Order of Whiteclay
+// Rally the Ancestors
+
+// Fetch Advisors
+// Tamiyo, Collector of Tales
+// Wild Pair
+// Lurking Predators
+// Wood Sage
+// Genesis Wave
+// Clarion Ultimatum
+// Doubling Chant
+// Vizier of the Menagerie
+
+// Removed...
+// Crackdown
+// Dramatic Reversal
+// Marble Titan
+// Fatespinner
+// Obelisk of Urd
+// To Arms!
+// Foresee
+// Pir's Whim
+// Builder's Blessing
+// Castle
+// Kefnet's Monument
+// Kindred Discovery
+// Join Shields
+// Sphere of Safety
+// Norn's Annex
+// Nantuko Shrine
+// Cryptolith Rite
+// Energy Arc
+// Constant Mists
+// Door of Destinies
+// Magus of the Moat
+// Storage Matrix
+// Zendikar Resurgent
+// Intruder Alarm
+// Rite of Replication
+// Neurok Stealthsuit
+// Helm of the Host
+// Swiftfoot Boots
+// Blind Obedience
+// Swan Song
+// Arcane Denial
+// Fanatical Devotion
+// Kodama's Reach
+// Cultivate
+// Fact or Fiction
+// Smothering Tithe
+// Pemmin's Aura
+// Keening Stone
+// Windfall
+// Kefnet's Monument
+// Jace's Archivist
+// Altar of Dementia
+// Stasis
+// Temple of the False God
+// Mind's Eye

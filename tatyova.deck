@@ -1,0 +1,110 @@
+[1] Tatyova, Benthic Druid @draw @landfall
+
+// Ramp
+[1] Lotus Cobra @ramp @landfall
+[1] Beanstalk Giant @ramp
+[1] Stone-Seeder Hierophant @ramp @landfall
+[1] Skyshroud Claim @ramp
+[1] Khalni Heart Expedition @ramp
+[1] Harrow @ramp
+[1] Wayward Swordtooth @ramp @extra_land_drop
+[1] Rites of Flourishing @ramp @extra_land_drop
+[1] Growth Spiral @ramp @extra_land_drop
+[1] Sakura-Tribe Scout @ramp @extra_land_drop
+[1] Budoka Gardener @ramp @extra_land_drop
+[1] Llanowar Scout @ramp @extra_land_drop
+
+// Card Draw
+[1] Horn of Greed @draw
+[1] Future Sight @draw
+[1] Rishkar's Expertise @draw
+
+// Wraths & Removal
+[1] Flood of Tears @creature_wrath
+[1] Ezuri's Predation @creature_wrath
+[1] Pongify @creature_removal
+[1] Reality Shift @creature_removal
+[1] Beast Within @creature_removal
+[1] Lignify @creature_removal
+[1] Curse of the Swine @creature_removal
+[1] Broken Bond @artifact_removal @enchantment_removal @ramp @extra_land_drop
+[1] Krosan Grip @artifact_removal @enchantment_removal
+[1] Acidic Slime @artifact_removal @enchantment_removal
+
+// Protection
+[1] Swan Song @counter @protection
+[1] Counterspell @counter @protection
+[1] Deprive @counter @protection
+[1] Insidious Will @counter @protection
+[1] Mystic Confluence @draw @counter @bounce @protection
+[1] Lightning Greaves @protection
+[1] Swiftfoot Boots @protection
+[1] Neurok Stealthsuit @protection
+[1] Heroic Intervention @protection
+[1] Wrap in Vigor @protection
+
+// Landfall
+[1] Courser of Kruphix @landfall
+[1] Retreat to Kazandu @life_gain @landfall
+[1] Retreat to Coralhelm @scry @landfall
+[1] Seed the Land @landfall
+[1] Zendikar's Roil @landfall
+[1] Rampaging Baloths @landfall
+[1] Roil Elemental @landfall
+[1] Baloth Woodcrasher @landfall
+[1] Avenger of Zendikar @landfall
+[1] Sporemound @landfall
+[1] Oran-Rief Hydra @landfall
+
+// Land Bounce
+[1] Soratami Rainshaper @land_bounce
+[1] Kefnet the Mindful @draw @land_bounce
+[1] Meloku, the Clouded Mirror @land_bounce
+[1] Mana Breach @land_bounce
+
+// Misc
+[1] Ulvenwald Hydra @ramp
+[1] Coiling Oracle
+[1] Risen Reef
+[1] Elfhame Sanctuary
+[1] Abundance
+[1] Scavenging Ooze @graveyard_hate
+[1] Seasons Past @graveyard_recursion
+[1] Regrowth @graveyard_recursion
+[1] Multani, Yavimaya's Avatar
+[1] Genesis Wave
+
+// Lands
+[01] Myriad Landscape
+[01] Terramorphic Expanse
+[01] Evolving Wilds
+[01] Bant Panorama
+[01] Esper Panorama
+[01] Grixis Panorama
+[01] Jund Panorama
+[01] Naya Panorama
+[01] Reliquary Tower
+[01] Rogue’s Passage
+[01] Command Tower
+[01] Simic Growth Chamber
+[01] Yavimaya Coast
+[01] Flooded Grove
+[01] Hinterland Harbor
+[14] Forest
+[10] Island
+
+// Removed
+// Grow from the Ashes
+// Walking Atlas
+// Stonecoil Serpent
+// Psychosis Crawler
+// Howl of the Night Pack
+// Spelltwine
+// Skyshroud Ranger
+// Dissolve
+// Oblivion Sower
+// Nissa, Who Shakes the World
+// Pir's Whim
+// Silverglade Elemental
+// Wolfbriar Elemental
+// Managorger Hydra

@@ -1,0 +1,89 @@
+// Ramp
+[1] Star Compass {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Izzet Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Gilded Lotus {manacost: "{5}", colors: "", types: [Artifact], cmc: 5.00} @ramp
+[1] Thought Vessel {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp @no_hand_size
+[1] Primal Amulet {manacost: "{4}", colors: "", types: [Artifact, Land], cmc: 4.00} @ramp @spell_copy
+[1] Sapphire Medallion {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Sol Ring {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
+
+// Draw
+[1] Braingeyser {manacost: "{X}{U}{U}", colors: "U", types: [Sorcery], cmc: 2.00} @draw @scalable
+[1] Blue Sun's Zenith {manacost: "{X}{U}{U}{U}", colors: "U", types: [Instant], cmc: 3.00} @draw @scalable
+[1] Stroke of Genius {manacost: "{X}{2}{U}", colors: "U", types: [Instant], cmc: 3.00} @draw @scalable
+[1] Pull from Tomorrow {manacost: "{X}{U}{U}", colors: "U", types: [Instant], cmc: 2.00} @draw @scalable
+[1] Tezzeret's Gambit {manacost: "{3}{U/P}", colors: "U", types: [Sorcery], cmc: 4.00} @draw @proliferate
+[1] Recurring Insight {manacost: "{4}{U}{U}", colors: "U", types: [Sorcery], cmc: 6.00} @draw
+[1] Whispers of the Muse {manacost: "{U}", colors: "U", types: [Instant], cmc: 1.00} @draw @buyback
+[1] Dig Through Time {manacost: "{6}{U}{U}", colors: "U", types: [Instant], cmc: 8.00} @draw
+[1] Fact or Fiction {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @draw
+[1] Firemind's Foresight {manacost: "{5}{U}{R}", colors: "UR", types: [Instant], cmc: 7.00} @tutor @draw
+
+// Point Removal
+[1] Scour from Existence {manacost: "{7}", colors: "", types: [Instant], cmc: 7.00} @permanent_removal
+[1] Chaos Warp {manacost: "{2}{R}", colors: "R", types: [Instant], cmc: 3.00} @permanent_removal
+[1] Capsize {manacost: "{1}{U}{U}", colors: "U", types: [Instant], cmc: 3.00} @creature_removal @bounce @buyback
+[1] Prophetic Bolt {manacost: "{3}{U}{R}", colors: "UR", types: [Instant], cmc: 5.00} @creature_removal
+[1] Expansion // Explosion {manacost: "{X}{U/R}{U/R}{U}{U}{R}{R}", colors: "UR", types: [Instant], cmc: 6.00}
+[1] Aether Gale {manacost: "{3}{U}{U}", colors: "U", types: [Sorcery], cmc: 5.00} @creature_removal @bounce
+
+// Wipe
+[1] Volcanic Vision {manacost: "{5}{R}{R}", colors: "R", types: [Sorcery], cmc: 7.00} @wipe
+[1] Cyclonic Rift {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @wipe @bounce
+[1] Blasphemous Act {manacost: "{8}{R}", colors: "R", types: [Sorcery], cmc: 9.00} @wipe
+[1] Comet Storm {manacost: "{X}{R}{R}", colors: "R", types: [Instant], cmc: 2.00} @wipe @scalable
+[1] Curse of the Swine {manacost: "{X}{U}{U}", colors: "U", types: [Sorcery], cmc: 2.00} @wipe @scalable
+[1] By Force {manacost: "{X}{R}", colors: "R", types: [Sorcery], cmc: 1.00}
+[1] Vandalblast {manacost: "{R}", colors: "R", types: [Sorcery], cmc: 1.00} @artifact_wipe
+
+// Counters
+[1] Spell Burst {manacost: "{X}{U}", colors: "U", types: [Instant], cmc: 1.00} @counter @scalable @buyback
+[1] Condescend {manacost: "{X}{U}", colors: "U", types: [Instant], cmc: 1.00} @counter @scalable @scry
+[1] Ertai's Meddling {manacost: "{X}{U}", colors: "U", types: [Instant], cmc: 1.00} @counter @scalable
+[1] Insidious Will {manacost: "{2}{U}{U}", colors: "U", types: [Instant], cmc: 4.00}
+[1] Fervent Denial {manacost: "{3}{U}{U}", colors: "U", types: [Instant], cmc: 5.00} @counter
+[1] Swan Song {manacost: "{U}", colors: "U", types: [Instant], cmc: 1.00} @counter
+[1] Mystic Confluence {manacost: "{3}{U}{U}", colors: "U", types: [Instant], cmc: 5.00} @counter @draw @bounce
+
+// Defense
+[1] Propaganda {manacost: "{2}{U}", colors: "U", types: [Enchantment], cmc: 3.00} @defense
+[1] Collective Restraint {manacost: "{3}{U}", colors: "U", types: [Enchantment], cmc: 4.00} @defense
+[1] Dissipation Field {manacost: "{2}{U}{U}", colors: "U", types: [Enchantment], cmc: 4.00} @defense
+[1] Aetherize {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @defense
+[1] Domineering Will {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @defense
+[1] Illusionist's Gambit {manacost: "{2}{U}{U}", colors: "U", types: [Instant], cmc: 4.00} @defense
+[1] Disrupt Decorum {manacost: "{2}{R}{R}", colors: "R", types: [Sorcery], cmc: 4.00} @defense
+[1] Aetherspouts {manacost: "{3}{U}{U}", colors: "U", types: [Instant], cmc: 5.00} @defense
+[1] Mirror Match {manacost: "{4}{U}{U}", colors: "U", types: [Instant], cmc: 6.00} @defense
+
+// Mizzix Defense
+[1] Lightning Greaves {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @mizzix_defense
+[1] Darksteel Plate {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @mizzix_defense
+[1] Swiftfoot Boots {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @mizzix_defense
+[1] Neurok Stealthsuit {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @mizzix_defense
+
+// Graveyard Recursion
+[1] Shreds of Sanity {manacost: "{2}{R}", colors: "R", types: [Sorcery], cmc: 3.00} @graveyard_recursion
+[1] Mystic Retrieval {manacost: "{3}{U}", colors: "U", types: [Sorcery], cmc: 4.00} @graveyard_recursion
+[1] Past In Flames {manacost: "{3}{R}", colors: "R", types: [Sorcery], cmc: 4.00} @graveyard_recursion
+
+// Misc
+[1] Reiterate {manacost: "{1}{R}{R}", colors: "R", types: [Instant], cmc: 3.00} @buyback @spell_copy
+[1] Rite of Replication {manacost: "{2}{U}{U}", colors: "U", types: [Sorcery], cmc: 4.00}
+[1] Mystic Speculation {manacost: "{U}", colors: "U", types: [Sorcery], cmc: 1.00} @buyback @scry
+[1] Metallurgic Summonings {manacost: "{3}{U}{U}", colors: "U", types: [Enchantment], cmc: 5.00}
+[1] Leyline of Anticipation {manacost: "{2}{U}{U}", colors: "U", types: [Enchantment], cmc: 4.00}
+[1] Blatant Thievery {manacost: "{4}{U}{U}{U}", colors: "U", types: [Sorcery], cmc: 7.00}
+[1] Aether Snatch {manacost: "{4}{U}{U}", colors: "U", types: [Instant], cmc: 6.00}
+[1] Guttersnipe {manacost: "{2}{R}", colors: "R", types: [Creature], cmc: 3.00}
+[1] Call the Skybreaker {manacost: "{5}{U/R}{U/R}", colors: "UR", types: [Sorcery], cmc: 7.00}
+
+// Lands
+[1] Reliquary Tower {manacost: "", colors: "", types: [Land], cmc: 0.00} @no_hand_size
+[1] Temple of the False God {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Command Tower {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Cascade Bluffs {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Swiftwater Cliffs {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Steam Vents {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[16] Island {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[15] Mountain {manacost: "", colors: "", types: [Land], cmc: 0.00}

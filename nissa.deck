@@ -1,0 +1,110 @@
+[1] Nissa, Steward of Elements @ramp @scry
+[1] Serum Visions @scry @draw
+
+
+// Ramp
+[1] Sakura-Tribe Elder @ramp
+[1] Elvish Rejuvenator @ramp
+[1] Yavimaya Dryad @ramp
+[1] Cultivate @ramp
+// Rampant Growth
+// Nissa's Pilgrimage
+// Explore
+// Urban Evolution
+
+
+// Draw
+[1] Illusory Ambusher @draw
+[1] Rashmi, Eternities Crafter @draw
+[1] Vizier of the Menagerie @draw
+// Steady Progress
+// Deep Analyis
+// Treasure Cruise
+// Rowen
+// Mouth // Feed
+// Secrets of the Golden City
+// Foresee
+// Broodbirth Viper
+// Seer's Sundial
+// Dig Through Time
+// Fact or Fiction
+
+// Wipes and Removal
+[1] Setessan Tactics @creature_removal
+[1] Reality Shift @creature_removal
+[1] Affectionate Indrik @creature_removal
+[1] Thrashing Brontodon @artifact_removal @enchantment_removal
+[1] Naturalize @artifact_removal @enchantment_removal
+// Into the Roil
+// Evacuation
+// Capsize
+
+
+// Counters
+[1] Swan Song @counter
+[1] Frilled Mystic @counter
+// Disdainful Stroke
+// Arcane Denial
+// Muddle the Mixture
+// Disallow
+// Insidious Will
+// Swan Song
+
+// Scry and Surveil
+[1] Darksteel Pendant @scry
+[1] Omenspeaker @scry
+[1] Nightveil Sprite @surveil
+[1] Dimir Informant @surveil
+[1] Sphinx of Foresight @scry
+[1] Watcher in the Mist @surveil
+[1] Horizon Scholar @scry
+// Brainstorm
+// Mission Briefing
+// Ponder
+// Preordain
+
+
+// Big Spells and Mana Sinks
+[1] Wolfbriar Elemental @big_spells
+[1] Genesis Wave @big_spells
+[1] Ant Queen @big_spells
+// Colossus of Akros
+// Wildest Dreams
+
+
+// Misc
+[1] Rancor
+[1] Ambush Viper
+[1] Blade of Selves
+[1] Rhox Oracle
+[1] Vigilant Baloth
+[1] Snapping Sailback
+[1] Torrential Gearhulk @graveyard_recursion
+[1] Colossal Dreadmaw
+[1] Hatchery Spider
+[1] Polyraptor
+// Flood of Recollection
+// Stolen Identity
+// Body Double
+// Passwall Adept
+// Aeromunculus
+// Dominate
+// Salvager of Secrets
+// Frilled Sea Serpent
+// Mind's Desire
+// Mnemonic Wall
+// Skitter Eel
+// Mammoth Spider
+// Primordial Wurm
+// Giant Spider
+// Suspicious Bookcase
+// Bitterbow Sharpshooters
+// Krosan Tusker
+// Eternal Witness
+// Mirage Mirror
+// Spelltwine
+// Spire Winder
+
+// Lands
+[12] Forest
+[12] Island

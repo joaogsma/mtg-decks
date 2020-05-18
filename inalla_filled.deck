@@ -1,0 +1,139 @@
+[1] Inalla, Archmage Ritualist {manacost: "{2}{U}{B}{R}", colors: "UBR", types: [Creature], cmc: 5.00}
+
+// Ramp
+[1] Sol Ring {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
+[1] Urza's Incubator {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @ramp
+[1] Stonybrook Banneret {manacost: "{1}{U}", colors: "B", types: [Creature], cmc: 2.00} @ramp @wizard
+[1] Izzet Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Dimir Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Rakdos Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Cryptic Gateway {manacost: "{5}", colors: "", types: [Artifact], cmc: 5.00} @ramp
+[1] Wayfarer's Bauble {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
+[1] Coldsteel Heart {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
+[1] Ashnod's Altar {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @ramp @sac_outlet
+
+// Draw
+[1] Merchant of Secrets {manacost: "{2}{U}", colors: "U", types: [Creature], cmc: 3.00} @draw @wizard
+[1] Sea Gate Oracle {manacost: "{2}{U}", colors: "U", types: [Creature], cmc: 3.00} @draw @wizard
+[1] Watcher for Tomorrow {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @draw @wizard
+[1] Cloudkin Seer {manacost: "{2}{U}", colors: "U", types: [Creature], cmc: 3.00} @draw @wizard
+[1] Pondering Mage {manacost: "{3}{U}{U}", colors: "U", types: [Creature], cmc: 5.00} @draw @wizard
+[1] Thalakos Seer {manacost: "{U}{U}", colors: "U", types: [Creature], cmc: 2.00} @draw @wizard
+[1] Tomebound Lich {manacost: "{1}{U}{B}", colors: "UB", types: [Creature], cmc: 3.00} @draw @wizard
+[1] Azami, Lady of Scrolls {manacost: "{2}{U}{U}{U}", colors: "U", types: [Creature], cmc: 5.00} @draw @wizard
+[1] Infernal Offering {manacost: "{4}{B}", colors: "B", types: [Sorcery], cmc: 5.00} @draw @creature_grave_rec @flicker
+[1] Dire Undercurrents {manacost: "{3}{U}{B}", colors: "UB", types: [Enchantment], cmc: 5.00} @draw
+
+// Wipes & Removal
+[1] Kindred Dominance {manacost: "{5}{B}{B}", colors: "B", types: [Sorcery], cmc: 7.00} @wipe
+[1] Insurrection {manacost: "{5}{R}{R}{R}", colors: "R", types: [Sorcery], cmc: 8.00} @wipe
+[1] Evacuation {manacost: "{3}{U}{U}", colors: "B", types: [Sorcery], cmc: 5.00} @wipe
+[1] Damnation {manacost: "{2}{B}{B}", colors: "B", types: [Sorcery], cmc: 4.00} @wipe
+[1] Rakdos Charm {manacost: "{B}{R}", colors: "BR", types: [Instant], cmc: 2.00} @artifact_removal @grave_hate
+[1] Chaos Warp {manacost: "{2}{R}", colors: "R", types: [Instant], cmc: 3.00} @permanent_removal
+[1] Bedevil {manacost: "{B}{B}{R}", colors: "BR", types: [Instant], cmc: 3.00} @creature_removal @artifact_removal @planeswalker_removal
+[1] Stronghold Assassin {manacost: "{1}{B}{B}", colors: "B", types: [Creature], cmc: 3.00} @sac_outlet @creature_removal
+
+// Bounce
+[1] Aether Adept {manacost: "{1}{U}{U}", colors: "U", types: [Creature], cmc: 3.00} @wizard @bounce
+[1] Sedraxis Alchemist {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @wizard @bounce
+[1] Galecaster Colossus {manacost: "{5}{U}{U}", colors: "U", types: [Creature], cmc: 7.00} @wizard @bounce @permanent_removal
+[1] Crystal Shard {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @bounce
+[1] Portal of Sanctuary {manacost: "{2}{U}", colors: "U", types: [Artifact], cmc: 3.00} @bounce
+
+// Graveyard Recursion
+[1] Bloodline Necromancer {manacost: "{4}{B}", colors: "B", types: [Creature], cmc: 5.00} @wizard @creature_grave_rec
+[1] Cauldron Dance {manacost: "{4}{B}{R}", colors: "BR", types: [Instant], cmc: 6.00} @creature_grave_rec
+[1] Apprentice Necromancer {manacost: "{1}{B}", colors: "B", types: [Creature], cmc: 2.00} @wizard @creature_grave_rec
+[1] Victimize {manacost: "{2}{B}", colors: "B", types: [Sorcery], cmc: 3.00} @sac_outlet @creature_grave_rec
+[1] Blood for Bones {manacost: "{3}{B}", colors: "B", types: [Sorcery], cmc: 4.00} @creature_grave_rec @flicker
+[1] Wretched Confluence {manacost: "{3}{B}{B}", colors: "B", types: [Instant], cmc: 5.00} @creature_grave_rec
+[1] Archaeomancer {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard @spell_grave_rec
+[1] Izzet Chronarch {manacost: "{3}{U}{R}", colors: "UR", types: [Creature], cmc: 5.00} @wizard @spell_grave_rec
+[1] Salvager of Secrets {manacost: "{3}{U}{U}", colors: "U", types: [Creature], cmc: 5.00} @wizard @spell_grave_rec
+
+// ETB Synergy
+[1] Naban, Dean of Iteration {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @wizard @etb_synergy
+[1] Panharmonicon {manacost: "{4}", colors: "", types: [Artifact], cmc: 4.00} @etb_synergy
+[1] Flameshadow Conjuring {manacost: "{3}{R}", colors: "R", types: [Enchantment], cmc: 4.00} @etb_synergy
+[1] Impact Tremors {manacost: "{1}{R}", colors: "R", types: [Enchantment], cmc: 2.00} @etb_synergy
+
+// Sac Outlets
+[1] Viscera Seer {manacost: "{B}", colors: "B", types: [Creature], cmc: 1.00} @wizard @sac_outlet
+[1] Sadistic Hypnotist {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00} @sac_outlet
+[1] Mind Slash {manacost: "{1}{B}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @sac_outlet
+
+// Counters
+[1] Swan Song {manacost: "{U}", colors: "B", types: [Instant], cmc: 1.00} @counter @protection
+[1] Arcane Denial {manacost: "{1}{U}", colors: "B", types: [Instant], cmc: 2.00} @counter @protection
+[1] Counterflux {manacost: "{U}{U}{R}", colors: "UR", types: [Instant], cmc: 3.00} @counter @protection
+
+// Misc
+[1] Marchesa, the Black Rose {manacost: "{1}{U}{B}{R}", colors: "UBR", types: [Creature], cmc: 4.00} @wizard @protection
+[1] Ghostly Flicker {manacost: "{2}{U}", colors: "U", types: [Instant], cmc: 3.00} @flicker
+[1] Dualcaster Mage {manacost: "{1}{R}{R}", colors: "R", types: [Creature], cmc: 3.00} @wizard
+[1] Puppeteer Clique {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00} @wizard
+[1] Faerie Seer {manacost: "{U}", colors: "U", types: [Creature], cmc: 1.00} @wizard
+[1] Vindictive Lich {manacost: "{3}{B}", colors: "B", types: [Creature], cmc: 4.00} @wizard
+[1] Sower of Temptation {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard
+[1] Master of Waves {manacost: "{3}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard
+[1] Corpse Conoisseaur {manacost: "{4}{B}", colors: "B", types: [Creature], cmc: 5.00} @wizard @tutor
+
+// Lands
+[01] Grixis Panorama {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Evolving Wilds {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Terramorphic Expanse {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Jwar Isle Refuge {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Dimir Aqueduct {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Rakdos Carnarium {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Izzet Boilerworks {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Command Tower {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Exotic Orchard {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Path of Ancestry {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Crumbling Necropolis {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Steam Vents {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Bojuka Bog {manacost: "", colors: "", types: [Land], cmc: 0.00} @grave_hate
+[01] Phyrexian Tower {manacost: "", colors: "", types: [Land], cmc: 0.00} @sac_outlet
+[10] Island {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[09] Swamp {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[05] Mountain {manacost: "", colors: "", types: [Land], cmc: 0.00}
+
+// To Insert
+// - Viscera Seer
+// + Displace
+
+// Removed
+// Anathemancer
+// Merfolk Trickster
+// Thermopod
+// Herald's Horn
+// Worn Powerstone
+// Culling the Weak
+// Shadowmage Infiltrator
+// Conjurer's Closet
+// Falkenrath Aristocrat
+// Havengul Lich
+// Vandalblast
+// Altar of the Brood
+// Docent of Perfection
+// Kindred Discovery
+// Separatist Voidmage
+// Cauldron of Souls
+// Altar of Dementia
+// Silumgar's Command
+// Blood Artist
+// Crosis's Charm
+// Dimir Signet
+// Necromantic Selection
+// Thran Dynamo
+// Zulaport Cutthroat
+// Carrion Feeder
+// Sage's Row Savant
+// Culling Dais
+// Grave Pact
+// Spawning Pit
+// Omenspeaker
+// Reality Shift
+// Decree of Pain
+// Yahenni, Undying Partisan
+// Living Death
