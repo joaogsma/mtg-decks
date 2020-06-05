@@ -1,0 +1,146 @@
+[1] Ephara, God of the Polis @draw
+
+// Ramp
+[1] Sol Ring @ramp
+[1] Azorius Signet @ramp
+[1] Talisman of Progress @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Solemn Simulacrum @ramp
+[1] Kor Cartographer @ramp @etb
+[1] Boreas Charger @ramp
+[1] Knight of the White Orchid @ramp
+[1] Fellwar Stone @ramp
+[1] Fatestitcher @ramp
+
+// Draw
+[1] Mulldrifter @etb @draw
+[1] Cloudblazer @etb @draw
+[1] Pondering Mage @etb @draw
+[1] Alms Collector @flash @draw
+[1] Illusory Ambusher @flash @draw
+[1] Fact or Fiction @draw
+[1] Chemister's Insight @draw
+[1] Pull from Tomorrow @draw
+
+// Wipes & Removal
+[1] Tragic Arrogance @creature_wipe
+[1] Supreme Verdict @creature_wipe
+[1] Descend Upon the Sinful @creature_wipe
+[1] Time Wipe @creature_wipe
+[1] Austere Command @permanent_wipe
+[1] Swords to Plowshares @creature_removal
+[1] Path to Exile @creature_removal
+[1] Reality Shift @creature_removal
+[1] Luminate Primordial @etb @creature_removal
+[1] Generous Gift @permanent_removal
+[1] Cavalier of Dawn @etb @permanent_removal
+
+// Counterspells
+[1] Swan Song @counter
+[1] Dovin's Veto @counter
+[1] Arcane Denial @counter
+[1] Disallow @counter
+[1] Unwind @counter
+
+// Flash
+[1] Aven Mindcensor @etb @flash
+[1] Containment Priest @etb @flash
+[1] Voracious Greatshark @etb @flash @counter
+[1] Draining Whelk @flash @counter
+[1] Dream Eater @etb @flash @creature_removal
+[1] Stunt Double @flash @clone
+[1] Venser, Shaper Savant @flash
+[1] Whitemane Lion @flash
+[1] Stonecloaker @flash
+[1] Venser, Shaper Savant @flash @etb
+[1] Selfless Squire @flash @etb
+[1] Voidmage Husher @flash @etb
+[1] Teferi, Mage of Zhalfir @flash
+[1] Jin-Gitaxias, Core Augur @flash
+
+// Pillow Fort
+[1] Propaganda @pillow_fort
+[1] Ghostly Prison @pillow_fort
+[1] Sphere of Safety @pillow_fort
+[1] Collective Restraint @pillow_fort
+[1] Michiko Konda, Truth Seeker @pillow_fort
+[1] Norn's Annex @pillow_fort
+[1] Magus of the Moat @pillow_fort
+[1] Stalking Leonin @pillow_fort
+[1] Windborn Muse @pillow_fort
+[1] Portal Mage @pillow_fort
+
+// Flicker
+[1] Conjurer's Closet @flicker
+[1] Thassa, Deep-Dwelling @flicker
+[1] Soulherder @flicker
+[1] Ghostly Flicker @flicker
+[1] Eerie Interlude @flicker
+[1] Ephemerate @flicker
+[1] Restoration Angel @flash @flicker
+[1] Teferi's Time Twist @flicker
+
+// Self-Flicker
+[1] Aetherling @self_flicker
+[1] Deadeye Navigator @self_flicker
+[1] Saltskitter @self_flicker
+
+// ETB
+[1] Fiend Hunter @creature_removal @etb
+[1] Resolute Archangel @etb
+[1] Stonehorn Dignitary @etb
+[1] Diluvian Primordial @etb
+[1] Azor, the Lawbringer @etb
+
+// Token Makers
+[1] Trading Post @token_maker
+[1] Acorn Catapult @token_maker
+[1] Mirror Mockery @token_maker
+[1] Faerie Artisans @token_maker
+[1] Mimic Vat @token_maker
+[1] Akroan Horse @token_maker
+[1] Nadir Kraken @token_maker
+
+// Graveyard Recursion
+[1] Karmic Guide @etb @reanimator
+[1] Reveillark @reanimator
+[1] Sun Titan @etb @reanimator
+[1] Torrential Gearhulk @etb @flash @spell_reanimator
+[1] Archaeomancer @etb @spell_reanimator
+[1] Mnemonic Wall @etb @spell_reanimator
+[1] Rally the Ancestors @reanimator
+
+// Misc
+[1] Gather Specimens
+[1] Sudden Substitution
+[1] Mind's Dilation
+
+// Lands
+[19] Island
+[19] Plains
+
+// Removed
+// Baird, Steward of Argive
+// Orzhov Advokist
+// Goldmeadow Lookout
+// Brineborn Cutthroat
+// Mirror Image
+// Call for Unity
+// Cataclysmic Gearhulk
+// Linvala, the Preserver @etb
+// Subjugator Angel @etb
+// Throne of Empires @token_maker
+// Flickerform
+// Cloudshift
+// Essence Flux
+// Turn to Mist
+// Flicker of Fate
+// Reflector Mage @etb @creature_removal
+// Angel of Grace @etb @flash
+// Aethergeode Miner @self_flicker
+// Salvager of Secrets @etb @spell_reanimator
+// Emeria Angel @token_maker
+// Duplicant @etb @creature_removal
+// Sunblast Angel @etb
+// Leyline of Anticipation
+// Commandeer
