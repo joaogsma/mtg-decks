@@ -37,6 +37,7 @@
 [1] Dire Fleet Poisoner {manacost: "{1}{B}", colors: "B", types: [Creature], cmc: 2.00} @deathtouch
 [1] Rancid Rats {manacost: "{1}{B}", colors: "B", types: [Creature], cmc: 2.00} @deathtouch @evasion
 [1] Isareth the Awakener {manacost: "{1}{B}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
+[1] Hooded Blightfang {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
 [1] Ophiomancer {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
 [1] Pestilent Spirit {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch @evasion
 [1] Graveblade Marauder {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
@@ -63,14 +64,13 @@
 [1] Crown of Doom {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @combat_encouragement
 [1] Fumiko the Lowblood {manacost: "{2}{R}{R}", colors: "R", types: [Creature], cmc: 4.00} @combat_encouragement
 [1] Bloodthirsty Blade {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @defense @combat_encouragement
+[1] War Cadence {manacost: "{2}{R}", colors: "R", types: [Enchantment], cmc: 3.00} @combat_encouragement
 
 // Defense
 [1] Kazuul, Tyrant of the Cliffs {manacost: "{3}{R}{R}", colors: "R", types: [Creature], cmc: 5.00} @defense
-[1] Island Sanctuary {manacost: "{1}{W}", colors: "W", types: [Enchantment], cmc: 2.00} @defense @protect_monarch
-[1] Solitary Confinement {manacost: "{2}{W}", colors: "W", types: [Enchantment], cmc: 3.00} @defense @protect_monarch
+[1] Righteous Aura {manacost: "{1}{W}", colors: "W", types: [Enchantment], cmc: 2.00} @defense
 
 // Misc
-[1] War's Toll {manacost: "{3}{R}", colors: "R", types: [Enchantment], cmc: 4.00}
 [1] Delaying Shield {manacost: "{3}{W}", colors: "W", types: [Enchantment], cmc: 4.00} @protect_monarch
 [1] Viridian Longbow {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ping
 [1] Thornbite Staff {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ping
@@ -152,3 +152,6 @@
 // Banshee of the Dread Choir {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00}
 // Despark {manacost: "{W}{B}", colors: "WB", types: [Instant], cmc: 2.00} @permanent_removal
 // War Cadence {manacost: "{2}{R}", colors: "R", types: [Enchantment], cmc: 3.00} @combat_encouragement
+// War's Toll
+// Island Sanctuary
+// Solitary Confinement
