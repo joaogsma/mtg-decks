@@ -1,0 +1,128 @@
+[1] Haldan, Avid Arcanist
+[1] Pako, Arcane Retriever
+
+// Ramp
+[1] Wayfarer's Bauble @ramp
+[1] Sol Ring @ramp
+[1] Sakura-Tribe Elder @ramp
+[1] Rampant Growth @ramp
+[1] Explore @ramp
+[1] Growth Spiral @ramp
+[1] Farseek @ramp
+[1] Nature's Lore @ramp
+[1] Cultivate @ramp
+[1] Kodama's Reach @ramp
+[1] Migration Path @ramp
+[1] Mana Geyser @ramp
+
+// Draw
+[1] Fact or Fiction @draw
+[1] Brainstorm @draw @top_manipulation
+[1] Future Sight @draw
+[1] Dig Through Time @draw
+[1] Return of the Wildspeaker @draw
+[1] Rishkar's Expertise @draw
+[1] Radha, Heart of Keld @draw
+[1] Prime Speaker Zegana @draw
+
+// Wipes & Removal
+[1] Blasphemous Act @wipe
+[1] Chain Reaction @wipe
+[1] Chandra's Ignition @wipe
+[1] Pongify @creature_removal
+[1] Reality Shift @creature_removal
+[1] Expel From Orazca @permanent_removal
+[1] Chaos Warp @permanent_removal
+[1] Beast Within @permanent_removal
+[1] Temporal Spring @permanent_removal
+[1] Nature's Claim @artifact_removal @enchantment_removal
+[1] Cindervines @artifact_removal @enchantment_removal
+
+// To The Face!
+[1] Rancor @push_damage
+[1] Prowler's Helm @push_damage
+[1] Whispersilk Cloak @push_damage @protection
+[1] Aqueous Form @push_damage @top_manipulation
+[1] Canopy Cover @push_damage @protection
+[1] Aether Tunnel @push_damage
+
+// Voltronish
+[1] Relentless Assault @voltron
+[1] World at War @voltron
+[1] Seize the Day @voltron
+[1] Temur Battle Rage @voltron
+
+// Counterspells
+[1] Memory Lapse @counter
+[1] Hinder @counter
+[1] Swan Song @counter
+[1] Arcane Denial @counter
+[1] Turn Aside @counter
+
+// Protection
+[1] Champion's Helm @protection
+[1] Neurok Stealthsuit @protection
+[1] Simic Charm @protection
+[1] Heroic Intervention @protection
+[1] Wrap in Vigor @protection
+[1] Lazotep Plating @protection
+[1] Mizzium Skin @protection
+[1] Dive Down @protection
+[1] Keep Safe @protection
+
+// Misc
+[1] Noxious Revival @graveyard_rec
+[1] Etali, Primal Storm
+[1] Stolen Strategy
+[1] Strionic Resonator
+[1] Spark Double
+
+// Lands
+[01] Evolving Wilds
+[01] Terramorphic Expanse
+[01] Fabled Passage
+[01] Temple of Mystery
+[01] Temple of Abandon
+[01] Temple of Epiphany
+[16] Forest
+[08] Island
+[08] Mountain
+
+
+// Removed
+// Jace, Mirror Mage
+// Orcish Librarian
+// Precognition
+// Preordain
+// Key to the City
+// Retreat to Coralhelm
+// Grindclock
+// Frantic Search
+// Windfall
+// Treasure Cruise
+// Psychotic Fury
+// Circuitous Route @ramp
+// Nissa, Steward of Elements @top_manipulation
+// Darksteel Pendant @top_manipulation
+// Ponder @top_manipulation
+// Serum Visions @top_manipulation
+// Pyxis of Pandemonium @top_manipulation
+// Ghoulcaller's Bell @top_manipulation
+// Wizened Snitches @top_peek
+// Lantern of Insight @top_peek
+// Lens of Clarity @top_peek
+// Wand of Denial @top_peek
+// Codex Shredder @top_manipulation @graveyard_rec
+// Mystic Speculation @top_manipulation
+// Embercleave @push_damage
+// Prognostic Sphinx @top_manipulation
+// Crystal Ball @top_manipulation
+// Soothsaying @top_manipulation
+// Mystic Forge @top_manipulation @top_peek
+// Portent @top_manipulation
+// Explorer's Scope @ramp @top_manipulation
+// Treasure Map @ramp @top_manipulation
+// Into the Wilds @ramp @top_manipulation
+// Courser of Kruphix @draw @top_peek
+// Song of Creation
+// Reclaim @graveyard_rec
