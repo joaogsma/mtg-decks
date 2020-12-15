@@ -1,0 +1,145 @@
+[1] Keskit, the Flesh Sculptor
+[1] Toggo, Goblin Weaponsmith
+
+// Ramp
+[1] Rakdos Signet @ramp
+[1] Talisman of Indulgence @ramp
+[1] Sol Ring @ramp
+[1] Fellwar Stone @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Hedron Archive @ramp
+[1] Solemn Simulacrum @ramp
+[1] Inspiring Statuary @ramp
+[1] Treasure Map @ramp @sac_fodder
+[1] Burnished Hart @ramp
+[1] Clock of Omens @ramp
+[1] Blinkmoth Urn @ramp
+[1] Ugin, the Ineffable @ramp @draw @sac_fodder
+
+// Draw
+[1] Pirate's Pillage @draw @sac_fodder
+[1] Mystic Forge @draw
+[1] Idol of Oblivion @draw
+[1] Combustible Gearhulk @draw
+[1] Coveted Jewel @draw @sac_fodder
+[1] Ichor Wellspring @sac_fodder @draw
+
+// Wipes & Removal
+[1] Blasphemous Act @wipe
+[1] All is Dust @wipe
+[1] Terminate @creature_removal
+[1] Bedevil @creature_removal @artifact_removal
+[1] Chaos Warp @permanent_removal
+[1] Spine of Ish Sah @permanent_removal
+[1] Meteor Golem @permanent_removal
+[1] Duplicant @creature_removal
+[1] Noxious Gearhulk @creature_removal
+[1] Nihil Spellbomb @graveyard_hate
+
+// Sac Outlets
+[1] Kuldotha Forgemaster @sac_outlet
+[1] Indomitable Creativity @sac_outlet
+[1] Scrapyard Recombiner @sac_outlet
+[1] Metalwork Colossus @sac_outlet
+
+// Pingers
+[1] Ghirapur Aether-Grid @pinger
+[1] Reckless Fireweaver @pinger
+[1] Cabal Paladin @pinger
+[1] Mayhem Devil @pinger
+[1] Marionette Master @pinger
+
+// Scrapping
+[1] Goblin Welder @scrapping @sac_outlet
+[1] Goblin Engineer @scrapping @sac_outlet
+[1] Scrap Mastery @scrapping @sac_outlet
+[1] Trash for Treasure @scrapping @sac_outlet
+[1] Scrap Trawler @scrapping
+[1] Myr Retriever @scrapping @sac_fodder
+[1] Workshop Assistant @scrapping @sac_fodder
+[1] Junk Diver @scrapping @sac_fodder
+[1] Trading Post @sac_fodder @sac_outlet @scrapping
+
+// Sacrifice Fodder
+[1] Gadrak, the Crown-Scourge @sac_fodder
+[1] Impulsive Pilferer @sac_fodder
+[1] Revel in Riches @sac_fodder
+[1] Myr Battlesphere @sac_fodder
+[1] Loyal Apprentice @sac_fodder
+[1] Thopter Assembly @sac_fodder
+[1] Mishra's Self-Replicator @sac_fodder
+
+// Misc
+[1] Darksteel Forge
+[1] Fiery Emancipation
+[1] Wishclaw Talisman
+[1] Rings of Brighthearth
+[1] Fury Storm
+[1] Saheeli's Directive
+
+// Lands
+[01] Bojuka Bog @graveyard_hate
+[01] Malakir Rebirth // Malakir Mire
+[01] Song-Mad Treachery // Song-Mad Ruins
+[01] Darksteel Citadel
+[01] Great Furnace
+[01] Vault of Whispers
+[01] Buried Ruin
+[01] Ghost Quarter
+[01] Tectonic Edge
+[01] Command Tower
+[01] Terramorphic Expanse
+[01] Evolving Wilds
+[01] Fabled Passage
+[01] Myriad Landscape
+[01] Tomb of the Spirit Dragon
+[01] Shrine of the Forsaken Gods
+[01] Inventor's Fair
+[01] Shadowblood Ridge
+[01] Rakdos Carnarium
+[08] Swamp
+[11] Mountain
+
+// Possible Additions
+// Phyrexian Triniform
+// Fathom Fleet Swordjack
+
+// Mirrorworks
+// Daretti, Scrap Savant @scrapping
+// Brass's Bounty @sac_fodder
+// Hellkite Igniter
+// Unwinding Clock
+// Dualcaster Mage
+// Curse of Opulence @sac_fodder
+// Weaponcraft Enthusiast @sac_fodder
+// Mob Rule @theft
+// Etched Champion
+
+// Treasure Keeper @sac_fodder
+// Flameshadow Conjuring @sac_fodder
+// Syr Konrad, the Grim @pinger
+// Shriekmaw @creature_removal
+// Deadly Tempest @wipe
+// Costly Plunder @draw @sac_outlet
+// Mazemind Tome @draw
+// Disciple of the Vault @pinger
+// Endrek Sahr, Master Breeder @sac_fodder
+// Aetherworks Marvel
+// Rakdos Charm @graveyard_hate @artifact_removal
+// Priest of Forgotten Gods @sac_outlet
+// Insurrection @theft
+// Pia's Revolution
+// Ugin's Nexus
+// Havoc Jester @pinger
+// Spawning Pit @sac_outlet
+// Weatherlight @draw
+// Mass Mutiny @theft
+// Shiny Impetus @sac_fodder
+// Ashnod's Altar @sac_outlet @ramp
+// Shimmer Myr
+// Executioner's Capsule @creature_removal
+// Mimic Vat @sac_fodder
+// Whisper, Blood Liturgist @sac_outlet
+// Skullclamp @draw
+// Pitiless Plunderer @sac_fodder
+// Mycosynth Wellspring @sac_fodder
