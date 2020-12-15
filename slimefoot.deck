@@ -24,6 +24,8 @@
 [1] Keen Sense @draw
 [1] Snake Umbra @draw
 [1] Culling Dais @draw @sac_outlet
+[1] God-Eternal Bontu @draw @sac_outlet
+[1] Priest of Forgotten Gods @sac_outlet @draw
 
 // Wipes & Removal
 [1] In Garruk’s Wake @creature_wipe
@@ -59,6 +61,7 @@
 [1] Sporemound @saproling_generation
 [1] Yavimaya Sapherd @saproling_generation
 [1] Second Harvest @saproling_generation
+[1] Fungal Rebirth @saproling_generation @grave_rec
 
 // Reanimate
 [1] Victimize @sac_outlet @reanimate
