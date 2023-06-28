@@ -1,0 +1,172 @@
+[1] Extus, Oriq Overlord // Awaken the Blood Avatar
+
+
+////////////////////////////////////////////
+//// Ramp
+[1] Wayfarer's Bauble @ramp
+[1] Sol Ring @ramp
+[1] Rakdos Signet @ramp
+[1] Orzhov Signet @ramp
+[1] Boros Signet @ramp
+[1] Arcane Signet @ramp
+[1] Crowded Crypt @ramp @avatar_fuel @late_game_avatar
+[1] Keeper of the Accord @ramp
+[1] Smothering Tithe @ramp
+[1] Black Market @ramp @avatar_fuel @late_game_avatar
+
+
+////////////////////////////////////////////
+//// Draw
+[1] Idol of Oblivion @draw
+[1] Welcoming Vampire @draw
+[1] Mentor of the Meek @draw
+[1] Read the Bones @draw
+[1] Night's Whisper @draw
+[1] Blood Pact @draw
+[1] Painful Truths @draw
+[1] Florian, Voldaren Scion @draw
+[1] Symmetry Matrix @draw
+[1] Outpost Siege @draw
+
+
+////////////////////////////////////////////
+//// Wipes & Removal
+[1] Martial Coup @wipe @avatar_fuel @late_game_avatar
+[1] Necrotic Hex @wipe @avatar_fuel @late_game_avatar
+[1] Despark @permanent_removal
+[1] Infernal Grasp @creature_removal
+[1] Swords to Plowshares @creature_removal
+[1] Path to Exile @creature_removal
+[1] Vindicate @permanent_removal
+[1] Chaos Warp @permanent_removal
+
+
+////////////////////////////////////////////
+//// Avatar Fuel - Turn 4 - Blood Avatar I
+[1] Raise the Alarm @avatar_fuel @turn_4_avatar
+[1] Dragon Fodder @avatar_fuel @turn_4_avatar
+[1] Krenko's Command @avatar_fuel @turn_4_avatar
+[1] Servo Exhibition @avatar_fuel @turn_4_avatar
+[1] Lingering Souls @avatar_fuel @turn_4_avatar
+[1] Weaponcraft Enthusiast @avatar_fuel @turn_4_avatar
+
+
+////////////////////////////////////////////
+//// Avatar Fuel - Turn 6 - Blood Avatar II
+[1] Sengir Autocrat @avatar_fuel @turn_6_avatar
+[1] Chittering Witch @avatar_fuel @turn_6_avatar
+[1] Increasing Devotion @avatar_fuel @turn_6_avatar
+[1] Release the Dogs @avatar_fuel @turn_6_avatar
+[1] Sram's Expertise @avatar_fuel @turn_6_avatar
+[1] Mana Geyser @avatar_fuel @turn_6_avatar
+
+
+////////////////////////////////////////////
+//// Avatar Fuel - Late Game - Blood Avatar III
+[1] Secure the Wastes @avatar_fuel @late_game_avatar
+
+
+////////////////////////////////////////////
+//// Avatar Fuel - Repeatable
+[1] Endrek Sahr, Master Breeder @avatar_fuel @repeatable_avatar_fuel
+[1] Assemble the Legion @avatar_fuel @repeatable_avatar_fuel
+[1] Requiem Angel @avatar_fuel @repeatable_avatar_fuel
+[1] Thalisse, Reverent Medium @avatar_fuel @repeatable_avatar_fuel
+[1] Doomed Artisan @avatar_fuel @repeatable_avatar_fuel
+[1] Sedgemoor Witch @avatar_fuel @repeatable_avatar_fuel
+[1] Young Pyromancer @avatar_fuel @repeatable_avatar_fuel
+
+
+////////////////////////////////////////////
+//// Populate
+[1] Rootborn Defenses @populate @board_protection
+[1] Song of the Worldsoul @populate
+[1] Ghired's Belligerence @populate
+[1] Rionya, Fire Dancer @populate
+[1] Wake the Reflections @populate
+
+
+////////////////////////////////////////////
+//// Board Protection
+[1] Boros Charm @board_protection
+
+
+////////////////////////////////////////////
+//// Counter Protection
+[1] Howl of the Horde @counter_protection
+[1] Double Vision @counter_protection
+[1] Dictate of Erebos @counter_protection
+[1] Martyr's Bond @counter_protection
+
+
+////////////////////////////////////////////
+//// Misc
+[1] Divine Visitation
+[1] Purphoros, God of the Forge
+[1] Descent into Avernus
+
+
+////////////////////////////////////////////
+//// Lands
+// All colors
+[1] Command Tower
+[1] Grand Coliseum
+[1] Evolving Wilds
+[1] Terramorphic Expanse
+[1] Myriad Landscape @ramp
+// Colorless
+[1] Ghost Quarter
+[1] Tectonic Edge
+[1] Scavenger Grounds
+[1] Rogue's Passage
+[1] Access Tunnel
+[1] Command Beacon
+// Boros
+[1] Spectator Seating
+[1] Battlefield Forge
+[1] Temple of Triumph
+// Orzhov
+[1] Marsh Flats
+[1] Caves of Koilos
+[1] Temple of Silence
+// Rakdos
+[1] Shadowblood Ridge
+[1] Smoldering Marsh
+[1] Temple of Malice
+[1] Rakdos Carnarium
+// Single color
+[1] Bojuka Bog
+[4] Swamp
+[6] Plains
+[6] Mountain
+
+
+
+//// Maybe:
+// Unbreakable Formation
+// Citadel of Pain
+// Tibalt's Trickery
+// Howl of the Horde
+// God-Eternal Oketra
+// Blot Out the Sky
+// Promise of Bunrei
+// Pitiless Plunderer
+// Terminate
+// Thopter Assembly
+// Call the Coppercoats
+// Netherborn Altar
+
+
+//// Removed
+// Syphon Flesh
+// Ogre Slumlord
+// Inkshield
+// Spawning Pit
+// Krenko, Mob Boss @avatar_fuel
+// Nadier, Agent of the Duskenel
+// Make a Stand @board_protection
+// Mob Rule @avatar_fuel
+// Wake the Reflections @populate
+// Dreadbore
+// Dualcaster Mage @counter_protection
+// Bloodsoaked Altar

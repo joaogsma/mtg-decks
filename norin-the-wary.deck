@@ -1,0 +1,139 @@
+[1] Norin the Wary
+
+///////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Ruby Medallion @ramp
+[1] Cursed Mirror @ramp
+[1] Guild Artisan @ramp
+[1] Rose Room Treasurer @ramp
+[1] Honor-Worn Shaku @ramp
+[1] Relic of Legends @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Tome of Legends @draw
+[1] Tempered in Solitude @draw
+[1] Tavern Brawler @draw
+[1] Visions of Phyrexia @draw
+[1] Outpost Siege @draw
+[1] Urabrask, Heretic Praetor @draw
+[1] Reckless Impulse @draw
+[1] Light Up the Stage @draw
+[1] Inspired Tinkering @draw
+[1] Magus of the Wheel @draw
+[1] Endless Atlas @draw
+[1] Zenith Chronicler @draw
+[1] Ghirapur Orrery @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Chain Reaction @creature_wipe
+[1] Mizzium Mortars @creature_wipe
+[1] Blasphemous Act @creature_wipe
+[1] Chaos Warp @permanent_removal
+[1] Wild Magic Surge @permanent_removal
+[1] Electrodominance @creature_removal
+[1] Lava Coil @creature_removal
+[1] Reckless Rage @creature_removal
+[1] Rending Flame @creature_removal
+[1] Volcanic Offering @creature_removal
+[1] By Force @artifact_removal
+[1] Shattering Spree @artifact_removal
+[1] Bladegriff Prototype @artifact_removal @enchantment_removal
+[1] Soul-Guide Lantern @graveyard_hate
+
+
+///////////////////////////////////////
+//// Pingers
+[1] Impact Tremors @pinger
+[1] Warstorm Surge @pinger
+[1] Purphoros, God of the Forge @pinger
+[1] Terror of the Peaks @pinger
+[1] Vigilante Justice @pinger
+[1] Burning Earth @pinger
+[1] Witty Roastmaster @pinger
+[1] Zo-Zu the Punisher @pinger
+[1] Fanatic of Mogis @pinger
+[1] Sulfuric Vortex @pinger
+[1] Roiling Vortex @pinger
+[1] Vengeful Ancestor @pinger @protection
+[1] Tunneling Geopede @pinger
+[1] Pyrohemia @pinger
+[1] Spellshock @pinger
+[1] Crimson Honor Guard @pinger
+[1] Descent into Avernus @pinger
+
+
+///////////////////////////////////////
+//// Damage Multipliers
+[1] Mechanized Warfare @damage_multiplier
+[1] Torbran, Thane of Red Fell @damage_multiplier
+[1] Fiery Emancipation @damage_multiplier
+[1] Angrath's Marauders @damage_multiplier
+
+
+///////////////////////////////////////
+//// Protection
+[1] Smoke @protection
+[1] Meekstone @protection
+[1] Geode Rager @protection
+[1] Brash Taunter @protection @pinger
+
+
+///////////////////////////////////////
+//// Misc
+[1] Mirage Mirror
+[1] Genesis Chamber
+[1] Territorial Hellkite
+[1] Rite of the Raging Storm
+
+
+
+///////////////////////////////////////
+//// Lands
+[01] War Room
+[01] Tectonic Edge
+[01] Ghost Quarter
+[01] Scavenger Grounds
+[01] Myriad Landscape @ramp
+[01] Roadside Reliquary @draw
+[30] Mountain
+
+
+
+////// Removed
+// Pyromancer's Goggles @ramp
+// Mind's Eye @draw
+// Ignite the Future @draw
+// Inferno Titan
+// Wildfire Devils
+// Valakut Exploration @pinger
+// Panharmonicon @etb_payoff
+// Mirror March @etb_payoff
+// Flameshadow Conjuring @etb_payoff
+// Molten Echoes @etb_payoff
+// Chef's Kiss
+// War's Toll
+// Wayfarer's Bauble @ramp
+// Jeska's Will @draw
+// Silent Arbiter @protection
+// Heated Debate
+// Reinforced Ronin
+// Mimic Vat
+// Harsh Mentor @pinger
+// Disrupt Decorum @protection
+// Sentinel Totem @graveyard_hate
+// Dire Fleet Daredevil
+// Reverberate
+// Dualcaster Mage
+// Mind Stone @ramp
+// Cemetery Gatekeeper @pinger
+// Curse of Opulence @ramp
+// Kazuul, Tyrant of the Cliffs @protection
+// Thran Dynamo @ramp
+// Wheel of Fate @draw
+// Spitfire Lagac @pinger
+// Arcbond

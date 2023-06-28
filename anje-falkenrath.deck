@@ -1,0 +1,149 @@
+// PARA ADICIONAR
+// Muck Drubb
+// Victimize
+// Reanimate
+// Surly Badgersaur
+
+
+[1] Anje Falkenrath
+
+////////////////////////////////////////
+//// Ramp
+  [1] Sol Ring @ramp
+  [1] Wayfarer's Bauble @ramp
+  [1] Arcane Signet @ramp
+  [1] Star Compass @ramp
+  [1] Talisman of Indulgence @ramp
+  [1] Cursed Mirror @ramp
+  [1] Fire Diamond @ramp
+  [1] Solemn Simulacrum @ramp
+  [1] Scaretiller @ramp
+
+
+////////////////////////////////////////
+//// Draw
+  [1] Prosper, Tome-Bound @draw @ramp
+  [1] Gilt-Blade Prowler @draw @discard_payoff
+  [1] Thrill of Possibility @draw @discard_outlet
+  [1] Tormenting Voice @draw @discard_outlet
+  [1] Cathartic Reunion @draw @discard_outlet
+  [1] Unexpected Windfall @draw @discard_outlet
+  [1] Birgi, God of Storytelling @draw @discard_outlet
+
+
+////////////////////////////////////////
+//// Wipes & Removal
+// Wipes
+  [1] In Garruk's Wake @wipe
+  [1] Nightmare Unmaking @wipe
+// Reliable removals
+  [1] Bone Shards @creature_removal @discard_outlet
+  [1] Infernal Grasp @creature_removal
+  [1] Terminal Agony @creature_removal @discard_target @madness
+  [1] Chaos Warp @permanent_removal
+  [1] Rakdos Charm @artifact_removal @graveyard_hate
+  [1] Bladegriff Prototype @artifact_removal @enchantment_removal
+// Half-removals
+  [1] Lightning Axe @half_creature_removal @discard_outlet
+  [1] Dark Withering @half_creature_removal @discard_target @madness
+  [1] Murderous Compulsion @half_creature_removal @discard_target @madness
+  [1] Fiery Temper @half_creature_removal @discard_target @madness
+  [1] Big Game Hunter @half_creature_removal @discard_target @madness
+  [1] Alchemist's Greeting @half_creature_removal @discard_target @madness
+
+
+////////////////////////////////////////
+//// Discard Targets
+// Madness
+  [1] Necrogoyf @discard_target @madness @discard_outlet
+  [1] Hell Mongrel @discard_target @madness @discard_outlet
+  [1] Shadowgrange Archfiend @discard_target @madness
+  [1] Archfiend of Spite @discard_target @madness
+  [1] Grave Scrabbler @discard_target @madness
+  [1] Gorgon Recluse @discard_target @madness
+  [1] Call to the Netherworld @discard_target @madness
+  [1] From Under the Floorboards @discard_target @madness
+  [1] Revolutionist @discard_target @madness
+  [1] Curse of Fool's Wisdom @discard_target @madness
+  [1] Psychotic Episode @discard_target @madness
+// "Madness"
+  [1] Edgar's Awakening @discard_target @madness @reanimation
+  [1] Conspiracy Theorist @discard_target @madness
+  [1] Containment Construct @discard_target @madness @discard_payoff
+// Reanimation targets
+  [1] Archon of Cruelty @discard_target @reanimation_target
+  [1] Vilis, Broker of Blood @discard_target @reanimation_target
+  [1] Pathrazer of Ulamog @discard_target @reanimation_target
+  [1] Demon of Dark Schemes @discard_target @reanimation_target
+  [1] Burning-Rune Demon @discard_target @reanimation_target
+// Misc
+  [1] Squee, Goblin Nabob @discard_target
+  [1] Anger @discard_target
+
+
+////////////////////////////////////////
+//// Reanimation
+  [1] Animate Dead @reanimation
+  [1] Persist @reanimation
+  [1] Doomed Necromancer @reanimation
+  [1] Incarnation Technique @reanimation
+  [1] Stitch Together @reanimation
+  [1] Victimize @reanimation
+  [1] Chainer, Nightmare Adept @reanimation @discard_outlet
+
+
+////////////////////////////////////////
+//// Discard Payoffs
+  [1] Bone Miser @discard_payoff
+  [1] Archfiend of Ifnir @discard_payoff
+
+
+////////////////////////////////////////
+//// Misc
+  [1] Rings of Brighthearth
+  [1] Wild-Magic Sorcerer
+
+
+
+////////////////////////////////////////
+//// Lands
+// Colorless Lands
+  [01] Myriad Landscape @ramp
+  [01] Drownyard Temple @ramp @discard_target
+  [01] Ash Barrens
+  [01] Rix Maadi, Dungeon Palace
+  [01] Temple of the False God
+  [01] Geier Reach Sanitarium @discard_outlet
+  [01] Ghost Quarter
+// Dual Lands
+  [01] Command Tower
+  [01] Cinder Barrens
+  [01] Rakdos Guildgate
+  [01] Rakdos Carnarium
+  [01] Bloodfell Caves
+  [01] Exotic Orchard
+// Nonbasic Monocolor Lands
+  [01] Bojuka Bog @graveyard_hate
+  [01] Mortuary Mire
+  [01] Memorial to Folly
+  [01] Forgotten Cave
+  [01] Barren Moor
+// Basics
+  [10] Mountain
+  [09] Swamp
+
+
+
+
+///////////////////////////////////////
+//// Removed
+// Terminate
+// Dread Return @reanimation
+// Reanimate @reanimation
+// Victimize @reanimation
+// Soul of Innistrad @discard_target @reanimation_target
+// Sanitarium Skeleton @discard_target
+// The Eldest Reborn @reanimation
+// ] Malevolent Whispers @discard_target @madness
+// ] Beacon of Unrest @reanimation
+// ] Etali, Primal Storm @discard_target @reanimation_target

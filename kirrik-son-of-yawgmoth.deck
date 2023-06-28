@@ -1,0 +1,129 @@
+[1] K'rrik, Son of Yawgmoth
+
+////////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Mind Stone @ramp
+[1] Charcoal Diamond @ramp
+[1] Arcane Signet @ramp
+[1] Fellwar Stone @ramp
+[1] Thran Dynamo @ramp
+[1] Hedron Archive @ramp
+[1] Nyx Lotus @ramp
+[1] Caged Sun @ramp
+
+
+////////////////////////////////////////
+//// Draw
+[1] Clackbridge Troll @life_gain @draw
+[1] Dread Presence @life_gain @draw
+[1] Twilight Prophet @life_gain @draw
+[1] Sign in Blood @draw
+[1] Read the Bones @draw
+[1] Vilis, Broker of Blood @draw
+[1] Stinging Study @draw
+[1] Syphon Mind @draw
+[1] Phyrexian Arena @draw
+[1] Mask of Griselbrand @draw
+
+
+////////////////////////////////////////
+//// Wipes & Removal
+[1] Essence Pulse @wipe
+[1] Mutilate @wipe
+[1] Feed the Swarm @enchantment_removal @creature_removal
+[1] Noxious Gearhulk @creature_removal @life_gain
+[1] Font of Agonies @creature_removal
+[1] Hero's Downfall @creature_removal
+[1] Defile @creature_removal
+[1] Drag to the Underworld @creature_removal
+[1] Tendrils of Corruption @creature_removal @life_gain
+[1] Corrupt @life_gain @creature_removal
+
+////////////////////////////////////////
+//// Life Gain
+[1] Blood Tithe @life_gain
+[1] Gonti's Machinations @life_gain
+[1] Gray Merchant of Asphodel @life_gain
+[1] Kokusho, the Evening Star @life_gain
+[1] Chancellor of the Dross @life_gain
+[1] Essence Harvest @life_gain
+[1] Exsanguinate @life_gain
+[1] Nighthawk Scavenger @life_gain
+[1] Tymaret, Chosen from Death @graveyard_hate @life_gain
+[1] Crypt Ghast @life_gain @extort
+[1] Pontiff of Blight @life_gain @extort
+[1] Thrull Parasite @life_gain @extort
+[1] Basilica Screecher @life_gain @extort
+[1] Syndicate Enforcer @life_gain @extort
+
+
+////////////////////////////////////////
+//// Life Gain Payoffs
+[1] Tivash, Gloom Summoner @life_gain_payoff
+[1] Vampire Scrivener @life_gain_payoff
+[1] Veinwitch Coven @life_gain_payoff
+[1] Vito, Thorn of the Dusk Rose @life_gain_payoff
+[1] Witch of the Moors @life_gain_payoff
+
+
+////////////////////////////////////////
+//// Tutors
+[1] Demonic Tutor @tutor
+[1] Beseech the Queen @tutor
+[1] Varragoth, Bloodsky Sire @tutor
+[1] Shred Memory @tutor
+
+
+////////////////////////////////////////
+//// Protection
+[1] Oblivion's Hunger @protection
+[1] Professor's Warning @protection
+[1] Armor of Shadows @protection
+[1] Without Weakness @protection
+[1] Unlikely Aid @protection
+[1] Rush of Vitality @protection
+[1] Commander's Plate @protection
+[1] Swiftfoot Boots @protection
+[1] Lightning Greaves @protection
+
+
+////////////////////////////////////////
+//// Misc
+[1] Vampiric Link
+[1] Demonic Embrace
+[1] Lashwrithe
+[1] Nightmare Lash
+[1] Nirkana Revenant
+[1] Marshland Bloodcaster
+[1] Bolas's Citadel
+[1] Dark Ritual
+
+
+////////////////////////////////////////
+//// Lands
+[01] Bojuka Bog @graveyard_hate
+[01] Myriad Landscape @ramp
+[01] Scavenger Grounds @graveyard_hate
+[01] Tectonic Edge
+[01] Ghost Quarter
+[01] Malakir Rebirth // Malakir Mire
+[01] Zof Consumption // Zof Bloodbog @life_gain
+[31] Swamp
+
+
+
+
+///////////////////////////////////////
+//////// Removed
+// Undying Evil @protection
+// Stonespeaker Crystal @ramp @graveyard_hate
+// Dimir Machinations @tutor @transmute
+// Infernal Grasp @creature_removal
+// Netherborn Phalanx @tutor @transmute
+// Brainspoil @tutor @transmute
+// Dimir House Guard @tutor @transmute
+// Defiant Bloodlord @life_gain_payoff
+// Palace Siege @life_gain
+// Grim Tutor @tutor

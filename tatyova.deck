@@ -1,110 +1,134 @@
-[1] Tatyova, Benthic Druid @draw @landfall
+//////////////////////////////////////
+//// Commander
+[1] Tatyova, Benthic Druid
 
-// Ramp
-[1] Lotus Cobra @ramp @landfall
-[1] Beanstalk Giant @ramp
-[1] Stone-Seeder Hierophant @ramp @landfall
-[1] Skyshroud Claim @ramp
+
+//////////////////////////////////////
+//// Ramp
+[1] Rampant Growth @ramp
+[1] Sakura-Tribe Elder @ramp
+[1] Into the North @ramp
 [1] Khalni Heart Expedition @ramp
+[1] Lotus Cobra @ramp @landfall
+[1] Tireless Provisioner @ramp @landfall
+[1] Explore @ramp
+[1] Growth Spiral @ramp
+[1] Azusa, Lost but Seeking @ramp
+[1] Dryad of the Ilysian Grove @ramp
 [1] Harrow @ramp
-[1] Wayward Swordtooth @ramp @extra_land_drop
-[1] Rites of Flourishing @ramp @extra_land_drop
-[1] Growth Spiral @ramp @extra_land_drop
-[1] Sakura-Tribe Scout @ramp @extra_land_drop
-[1] Budoka Gardener @ramp @extra_land_drop
-[1] Llanowar Scout @ramp @extra_land_drop
+[1] Wayward Swordtooth @ramp
+[1] Rites of Flourishing @ramp
+[1] Cultivate @ramp
+[1] Kodama's Reach @ramp
 
-// Card Draw
-[1] Horn of Greed @draw
+
+//////////////////////////////////////
+//// Draw
 [1] Future Sight @draw
-[1] Rishkar's Expertise @draw
+[1] Augur of Autumn @draw @landfall
+[1] Horn of Greed @draw @landfall
+[1] Urban Evolution @draw @ramp
+[1] Eureka Moment @draw @ramp
+[1] Tireless Tracker @landfall @draw
+[1] Cosima, God of the Voyage // The Omenkeel @landfall @draw
+[1] Zimone, Quandrix Prodigy @draw @ramp
+[1] Graven Lore @draw
 
-// Wraths & Removal
-[1] Flood of Tears @creature_wrath
-[1] Ezuri's Predation @creature_wrath
+
+//////////////////////////////////////
+//// Wraths & Removal
+[1] Flood of Tears @wipe
+[1] Ezuri's Predation @wipe
 [1] Pongify @creature_removal
+[1] Rapid Hybridization @creature_removal
 [1] Reality Shift @creature_removal
-[1] Beast Within @creature_removal
-[1] Lignify @creature_removal
 [1] Curse of the Swine @creature_removal
-[1] Broken Bond @artifact_removal @enchantment_removal @ramp @extra_land_drop
+[1] Incubation // Incongruity @creature_removal
+[1] Ravenform @creature_removal @artifact_removal
+[1] Beast Within @permanent_removal
+[1] Broken Bond @artifact_removal @enchantment_removal @ramp
 [1] Krosan Grip @artifact_removal @enchantment_removal
-[1] Acidic Slime @artifact_removal @enchantment_removal
 
-// Protection
+
+//////////////////////////////////////
+//// Protection
 [1] Swan Song @counter @protection
 [1] Counterspell @counter @protection
 [1] Deprive @counter @protection
-[1] Insidious Will @counter @protection
-[1] Mystic Confluence @draw @counter @bounce @protection
+[1] Mystic Confluence @draw @counter @protection
 [1] Lightning Greaves @protection
 [1] Swiftfoot Boots @protection
 [1] Neurok Stealthsuit @protection
 [1] Heroic Intervention @protection
-[1] Wrap in Vigor @protection
 
-// Landfall
-[1] Courser of Kruphix @landfall
-[1] Retreat to Kazandu @life_gain @landfall
-[1] Retreat to Coralhelm @scry @landfall
-[1] Seed the Land @landfall
+
+//////////////////////////////////////
+//// Landfall
+[1] Retreat to Coralhelm @landfall
 [1] Zendikar's Roil @landfall
-[1] Rampaging Baloths @landfall
+[1] Rampaging Baloths @landfall @token_maker
 [1] Roil Elemental @landfall
+[1] Avenger of Zendikar @landfall @token_maker
 [1] Baloth Woodcrasher @landfall
-[1] Avenger of Zendikar @landfall
-[1] Sporemound @landfall
-[1] Oran-Rief Hydra @landfall
+[1] Scute Mob @landfall @token_maker
+[1] Marit Lage's Slumber @landfall
 
-// Land Bounce
-[1] Soratami Rainshaper @land_bounce
-[1] Kefnet the Mindful @draw @land_bounce
-[1] Meloku, the Clouded Mirror @land_bounce
+
+//////////////////////////////////////
+//// Misc
+[1] Uyo, Silent Prophet
+[1] Ramunap Excavator
 [1] Mana Breach @land_bounce
+[1] End-Raze Forerunners
+[1] Chord of Calling
 
-// Misc
-[1] Ulvenwald Hydra @ramp
-[1] Coiling Oracle
-[1] Risen Reef
-[1] Elfhame Sanctuary
-[1] Abundance
-[1] Scavenging Ooze @graveyard_hate
-[1] Seasons Past @graveyard_recursion
-[1] Regrowth @graveyard_recursion
-[1] Multani, Yavimaya's Avatar
-[1] Genesis Wave
 
-// Lands
+//////////////////////////////////////
+//// Lands
+[01] Oboro, Palace in the Clouds @land_bounce
+[01] Field of the Dead @landfall
+[01] Scavenger Grounds
 [01] Myriad Landscape
+[01] Blighted Woodland
 [01] Terramorphic Expanse
 [01] Evolving Wilds
+[01] Fabled Passage
 [01] Bant Panorama
 [01] Esper Panorama
 [01] Grixis Panorama
 [01] Jund Panorama
 [01] Naya Panorama
 [01] Reliquary Tower
-[01] Rogue’s Passage
 [01] Command Tower
 [01] Simic Growth Chamber
-[01] Yavimaya Coast
-[01] Flooded Grove
-[01] Hinterland Harbor
-[14] Forest
-[10] Island
+[01] Bala Ged Recovery // Bala Ged Sanctuary
+[01] Field of Ruin
+[01] Terrain Generator
+[01] Rimewood Falls
+[11] Snow-Covered Forest
+[02] Forest
+[09] Snow-Covered Island
+[01] Island
 
-// Removed
-// Grow from the Ashes
-// Walking Atlas
-// Stonecoil Serpent
-// Psychosis Crawler
-// Howl of the Night Pack
-// Spelltwine
-// Skyshroud Ranger
-// Dissolve
-// Oblivion Sower
-// Nissa, Who Shakes the World
-// Pir's Whim
-// Silverglade Elemental
-// Wolfbriar Elemental
-// Managorger Hydra
+
+
+
+//////////////////////////////////////
+//// Removed
+// Seed the Land
+// Sakura-Tribe Scout
+// Ulvenwald Hydra
+// Gaea's Touch
+// Naturalize
+// Sprouting Vines
+// Rain of Revelation
+// Multani, Yavimaya's Avatar
+// Storm Cauldron
+// Meloku, the Clouded Mirror
+// Sprouting Vines @draw
+// Gush
+// Trade Routes
+// Sporemound
+// Three Visits @ramp
+// Dreamscape Artist @ramp
+// Courser of Kruphix @draw @landfall

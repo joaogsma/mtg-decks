@@ -1,0 +1,137 @@
+//// To Include
+// Mimic Vat
+// Tibalt's Trickery
+
+
+[1] Valki, God of Lies // Tibalt, Cosmic Impostor
+
+
+///////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Rakdos Signet @ramp
+[1] Talisman of Indulgence @ramp
+[1] Arcane Signet @ramp
+[1] Coldsteel Heart @ramp
+[1] Fellwar Stone @ramp
+[1] Prismatic Lens @ramp
+[1] Cursed Mirror @ramp
+[1] Hedron Archive @ramp
+[1] Thran Dynamo @ramp
+[1] Gilded Lotus @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Read the Bones @draw
+[1] Sign in Blood @draw
+[1] Night's Whisper @draw
+[1] Succumb to Temptation @draw
+[1] Ambition's Cost @draw
+[1] Birgi, God of Storytelling @draw
+[1] Prosper, Tome-Bound @draw
+[1] Outpost Siege @draw
+[1] Mind's Eye @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Dead of Winter @wipe
+[1] Damnation @wipe
+[1] Chain Reaction @wipe
+[1] Blasphemous Act @wipe
+[1] Terminate @creature_removal
+[1] Bedevil @creature_removal @artifact_removal
+[1] Hero's Downfall @creature_removal
+[1] Chaos Warp @permanent_removal
+[1] Infernal Grasp @creature_removal
+[1] Feed the Swarm @creature_removal @enchantment_removal
+[1] Hurl Through Hell @creature_removal @theft
+
+
+///////////////////////////////////////
+//// Library Theft
+[1] Gonti, Lord of Luxury @theft @library_theft
+[1] Etali, Primal Storm @theft @library_theft
+[1] Stolen Strategy @theft @library_theft
+[1] Opposition Agent @theft @library_theft
+[1] Chaos Wand @theft @library_theft
+[1] Cunning Rhetoric @theft @library_theft
+[1] Dead Man's Chest @theft @library_theft
+[1] Mindleecher @theft @library_theft
+[1] You Find Some Prisoners @theft @library_theft @artifact_removal
+[1] Fevered Suspicion @theft @library_theft
+[1] Praetor's Grasp @theft @library_theft
+[1] Brainstealer Dragon @theft @library_theft
+[1] Wand of Wonder @theft @library_theft
+[1] Oblivion Sower @theft @library_theft
+
+
+///////////////////////////////////////
+//// Hand Theft
+[1] Elder Brain @theft @hand_theft
+
+
+///////////////////////////////////////
+//// Battlefield Theft
+[1] Hellkite Tyrant @theft
+
+
+///////////////////////////////////////
+//// Stack Theft
+[1] Wandering Archaic @theft @stack_theft
+[1] Wild Ricochet @theft @stack_theft
+[1] Dualcaster Mage @theft @stack_theft
+[1] Reverberate @theft @stack_theft
+
+
+///////////////////////////////////////
+//// Graveyard Theft
+[1] Dire Fleet Daredevil @theft @graveyard_theft
+[1] Rise of the Dark Realms @theft @graveyard_theft
+[1] Reanimate @theft @graveyard_theft
+[1] Animate Dead @theft @graveyard_theft
+[1] Author of Shadows @theft @graveyard_theft @graveyard_hate
+
+
+///////////////////////////////////////
+//// Misc
+[1] Wild-Magic Sorcerer
+[1] Captive Audience
+[1] Dream Devourer
+[1] Varragoth, Bloodsky Sire
+
+
+///////////////////////////////////////
+//// Lands
+[01] Command Tower
+[01] Myriad Landscape
+[01] Temple of the False God
+[01] Thespian's Stage
+[01] Tectonic Edge
+[01] Ghost Quarter
+[01] Scavenger Grounds @graveyard_hate
+[01] Bojuka Bog @graveyard_hate
+[01] Malakir Rebirth // Malakir Mire
+[01] Exotic Orchard
+[01] Vivid Crag
+[01] Vivid Marsh
+[01] Grand Coliseum
+[01] Shadowblood Ridge
+[01] Temple of Malice
+[12] Swamp
+[10] Mountain
+[01] War Room
+
+
+
+///////////////////////////////////////
+//// Removed
+// Puppeteer Clique
+// Thrilling Encore
+// Grave Betrayal
+// Draugr Necromancer
+// Rakshasa Debaser
+// Rakdos Charm @artifact_removal @graveyard_hate
+// Geode Rager

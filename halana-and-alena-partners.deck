@@ -1,0 +1,159 @@
+[1] Halana and Alena, Partners
+
+
+////////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Rampant Growth @ramp
+[1] Three Visits @ramp
+[1] Nature's Lore @ramp
+[1] Sakura-Tribe Elder @ramp
+[1] Fertilid @ramp @counter_target
+[1] Kodama's Reach @ramp
+[1] Cultivate @ramp
+[1] Gyre Sage @ramp @counter_target
+[1] Incubation Druid @ramp
+
+
+////////////////////////////////////////
+//// Draw
+[1] Hunter's Insight @draw
+[1] Cloaked Cadet @draw
+[1] Beast Whisperer @draw
+[1] Inspiring Call @draw
+[1] Mindless Automaton @draw
+[1] Momentous Fall @draw
+[1] Rishkar's Expertise @draw
+[1] Return of the Wildspeaker @draw
+[1] Lurking Predators @draw
+[1] Neyith of the Dire Hunt @creature_removal @draw
+
+
+////////////////////////////////////////
+//// Wipes & Removal
+[1] Blasphemous Act @wipe
+[1] Chain Reaction @wipe
+[1] Chandra's Ignition @wipe
+[1] Arni Slays the Troll @creature_removal @counter_creation
+[1] Ram Through @creature_removal
+[1] Smell Fear @creature_removal @proliferate
+[1] Decimate @permanent_removal
+[1] Beast Within @permanent_removal
+[1] Chaos Warp @permanent_removal
+[1] Nature's Claim @artifact_removal @enchantment_removal
+[1] Ruinous Intrusion @artifact_removal @enchantment_removal
+[1] Scavenging Ooze @graveyard_hate
+[1] Kogla, the Titan Ape @artifact_removal @enchantment_removal
+
+
+////////////////////////////////////////
+//// Pumps
+[1] Rancor @pump
+[1] Champion's Helm @pump
+[1] Cloak and Dagger @pump
+
+
+////////////////////////////////////////
+//// Counter Creation
+[1] Evolutionary Escalation @counter_creation
+[1] Dormant Grove @counter_creation
+[1] Agitator Ant @counter_creation
+[1] Vigor @counter_creation
+[1] Rishkar, Peema Renegade @counter_creation
+[1] Thundering Mightmare @counter_creation
+[1] Loyal Guardian @counter_creation
+[1] Forgotten Ancient @counter_creation
+
+
+////////////////////////////////////////
+//// Counter Targets
+[1] Tahngarth, First Mate @counter_target
+[1] Champion of Lambholt @counter_target
+[1] Hangarback Walker @counter_target
+[1] Herd Baloth @counter_target
+[1] Krenko, Tin Street Kingpin @counter_target
+[1] Mycoloth @counter_target
+[1] Dreadhorde Arcanist @counter_target
+[1] Etali, Primal Storm @counter_target
+[1] Quartzwood Crasher @counter_target
+[1] Ochre Jelly @counter_target
+[1] Spikeshot Goblin @counter_target
+
+
+////////////////////////////////////////
+//// Counter Synergy
+[1] Hardened Scales @counter_synergy
+[1] Pir, Imaginative Rascal @counter_synergy
+[1] Branching Evolution @counter_synergy
+[1] The Ozolith @counter_synergy
+[1] Iridescent Hornbeetle @counter_synergy
+[1] Ivy Lane Denizen @counter_synergy
+[1] Kalonian Hydra @counter_synergy
+[1] Duskshell Crawler @counter_synergy
+[1] Slippery Bogbonder @counter_synergy
+
+
+////////////////////////////////////////
+//// Misc
+[1] Xenagos, God of Revels
+[1] Alena, Kessig Trapper
+[1] Evolution Sage @proliferate
+[1] Managorger Hydra
+[1] Embercleave
+[1] Snakeskin Veil
+
+
+////////////////////////////////////////
+//// Lands
+[1] Command Tower
+[1] Cinder Glade
+[1] Highland Forest
+[1] Scavenger Grounds
+[1] Tectonic Edge
+[1] Ghost Quarter
+[1] Myriad Landscape
+[1] Blighted Woodland
+[1] Bala Ged Recovery // Bala Ged Sanctuary
+[1] Vastwood Fortification // Vastwood Thicket
+[1] Khalni Ambush // Khalni Territory
+[1] Oran-Rief, the Vastwood
+[1] Tyrite Sanctum
+[1] Mosswort Bridge
+[1] Spinerock Knoll
+[1] Karn's Bastion @proliferate
+[1] Kessig Wolf Run
+[1] Skarrg, the Rage Pits
+[1] Rogue's Passage
+[1] Forge of Heroes
+[1] Llanowar Reborn
+[9] Forest
+[8] Mountain
+
+
+
+
+////////////////////////////////////////
+//// Removed
+// Empowered Autogenerator @ramp
+// Werewolf Pack Leader @counter_target
+// Rhythm of the Wild
+// Fires of Yavimaya
+// Klauth, Unrivaled Ancient
+// Kogla, the Titan Ape
+// Everflowing Chalice @ramp
+// Furious Rise @draw
+// Ilharg, the Raze-Boar @counter_target
+// Mage Slayer
+// Courage In Crisis @proliferate @counter_creation
+// Pollenbright Druid @proliferate
+// Bloom hulk @proliferate
+// Hammer of Nazahn @pump
+// Contagion Clasp @proliferate
+// Contagion Engine @proliferate
+// Urban Daggertooth @proliferate
+// Kamahl, Heart of Krosa @pump
+// Syr Faren, the Hengehammer @counter_target
+// Death's Presence @counter_synergy
+// Harmonize @draw
+// Ranger Class
+// Mowu, Loyal Companion @counter_target

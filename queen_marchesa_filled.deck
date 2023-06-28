@@ -1,157 +1,173 @@
-[1] Queen Marchesa {manacost: "{1}{W}{B}{R}", colors: "WBR", types: [Creature], cmc: 4.00} @deathtouch @monarch @evasion
-
-// Ramp
-[1] Wayfarer's Bauble {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
-[1] Orzhov Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Boros Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Rakdos Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Sword of the Animist {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Prismatic Lens {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Coldsteel Heart {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Smothering Tithe {manacost: "{3}{W}", colors: "W", types: [Enchantment], cmc: 4.00} @ramp
-[1] Sol Ring {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
-[1] Curse of Opulence {manacost: "{R}", colors: "R", types: [Enchantment], cmc: 1.00} @defense @ramp @combat_encouragement
-
-// Draw
-[1] Read the Bones {manacost: "{2}{B}", colors: "B", types: [Sorcery], cmc: 3.00} @draw
-[1] Sign in Blood {manacost: "{B}{B}", colors: "B", types: [Sorcery], cmc: 2.00} @draw
-[1] Dark Bargain {manacost: "{3}{B}", colors: "B", types: [Instant], cmc: 4.00} @draw
-[1] Painful Truths {manacost: "{2}{B}", colors: "B", types: [Sorcery], cmc: 3.00} @draw
-[1] The Immortal Sun {manacost: "{6}", colors: "", types: [Artifact], cmc: 6.00} @draw
-[1] Azra Oddsmaker {manacost: "{1}{B}{R}", colors: "BR", types: [Creature], cmc: 3.00} @draw
-[1] Harvester of Souls {manacost: "{4}{B}{B}", colors: "B", types: [Creature], cmc: 6.00} @deathtouch @draw
-[1] Grenzo, Havoc Raiser {manacost: "{R}{R}", colors: "R", types: [Creature], cmc: 2.00} @draw @combat_encouragement
-
-// Wipes & Removal
-[1] Merciless Eviction {manacost: "{4}{W}{B}", colors: "WB", types: [Sorcery], cmc: 6.00} @permanent_wipe
-[1] Cleasing Nova {manacost: "{3}{W}{W}", colors: "W", types: [Sorcery], cmc: 5.00} @permanent_wipe
-[1] Austere Command {manacost: "{4}{W}{W}", colors: "W", types: [Sorcery], cmc: 6.00} @permanent_wipe
-[1] Noxious Gearhulk {manacost: "{4}{B}{B}", colors: "B", types: [Creature, Artifact], cmc: 6.00} @creature_removal
-[1] Chaos Warp {manacost: "{2}{R}", colors: "R", types: [Instant], cmc: 3.00} @permanent_removal
-[1] Anguished Unmaking {manacost: "{1}{W}{B}", colors: "WB", types: [Instant], cmc: 3.00} @permanent_removal
-[1] Utter End {manacost: "{2}{W}{B}", colors: "WB", types: [Instant], cmc: 4.00} @permanent_removal
-
-// Deathtouch
-[1] Pharika's Chosen {manacost: "{B}", colors: "B", types: [Creature], cmc: 1.00} @deathtouch
-[1] Vampire of the Dire Moon {manacost: "{B}", colors: "B", types: [Creature], cmc: 1.00} @deathtouch
-[1] Dire Fleet Poisoner {manacost: "{1}{B}", colors: "B", types: [Creature], cmc: 2.00} @deathtouch
-[1] Rancid Rats {manacost: "{1}{B}", colors: "B", types: [Creature], cmc: 2.00} @deathtouch @evasion
-[1] Isareth the Awakener {manacost: "{1}{B}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
-[1] Hooded Blightfang {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
-[1] Ophiomancer {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
-[1] Pestilent Spirit {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch @evasion
-[1] Graveblade Marauder {manacost: "{2}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
-[1] Vampire Nighthawk {manacost: "{1}{B}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
-[1] Embodiment of Agonies {manacost: "{1}{B}{B}", colors: "B", types: [Creature], cmc: 3.00} @deathtouch
-[1] Gonti, Lord of Luxury {manacost: "{2}{B}{B}", colors: "B", types: [Creature], cmc: 4.00} @deathtouch
-[1] Odric, Lunarch Marshal {manacost: "{3}{W}", colors: "W", types: [Creature], cmc: 4.00} @deathtouch
-[1] Ukud Cobra {manacost: "{3}{B}", colors: "B", types: [Creature], cmc: 4.00} @deathtouch
-[1] Ankle Shanker {manacost: "{2}{W}{B}{R}", colors: "WBR", types: [Creature], cmc: 5.00} @deathtouch @first_strike
-[1] Cairn Wanderer {manacost: "{4}{B}", colors: "B", types: [Creature], cmc: 5.00} @deathtouch
-[1] Ogre Slumlord {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00} @deathtouch
-[1] Soulflayer {manacost: "{4}{B}{B}", colors: "B", types: [Creature], cmc: 6.00} @deathtouch
-
-// First Strike
-[1] Archetype of Courage {manacost: "{1}{W}{W}", colors: "W", types: [Enchantment, Creature], cmc: 3.00} @first_strike
-[1] Chariot of Victory {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @first_strike
-[1] Sword of Vengeance {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @first_strike
-[1] Duelist's Heritage {manacost: "{2}{W}", colors: "W", types: [Enchantment], cmc: 3.00} @combat_encouragement @first_strike
-
-// Combat Shenanigans
-[1] Brutal Hordechief {manacost: "{3}{B}", colors: "B", types: [Creature], cmc: 4.00} @combat_encouragement
-[1] Warmonger Hellkite {manacost: "{4}{R}{R}", colors: "R", types: [Creature], cmc: 6.00} @combat_encouragement
-[1] Disrupt Decorum {manacost: "{2}{R}{R}", colors: "R", types: [Sorcery], cmc: 4.00} @combat_encouragement
-[1] Crown of Doom {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @combat_encouragement
-[1] Fumiko the Lowblood {manacost: "{2}{R}{R}", colors: "R", types: [Creature], cmc: 4.00} @combat_encouragement
-[1] Bloodthirsty Blade {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @defense @combat_encouragement
-[1] War Cadence {manacost: "{2}{R}", colors: "R", types: [Enchantment], cmc: 3.00} @combat_encouragement
-
-// Defense
-[1] Kazuul, Tyrant of the Cliffs {manacost: "{3}{R}{R}", colors: "R", types: [Creature], cmc: 5.00} @defense
-[1] Righteous Aura {manacost: "{1}{W}", colors: "W", types: [Enchantment], cmc: 2.00} @defense
-
-// Misc
-[1] Delaying Shield {manacost: "{3}{W}", colors: "W", types: [Enchantment], cmc: 4.00} @protect_monarch
-[1] Viridian Longbow {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ping
-[1] Thornbite Staff {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ping
-[1] Mirage Mirror {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} 
-[1] Skyline Despot {manacost: "{5}{R}{R}", colors: "R", types: [Creature], cmc: 7.00}
-
-// Lands
-[1] Hanweir Battlements {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[1] Hall of Heliod's Generosity {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[1] Rogue's Passage {manacost: "", colors: "", types: [Land], cmc: 0.00} @evasion
-[1] Labyrinth of Skophos {manacost: "", colors: "", types: [Land], cmc: 0.00} @defense
-[1] Vault of the Archangel {manacost: "", colors: "", types: [Land], cmc: 0.00} @deathtouch
-[1] Evolving Wilds {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Terramorphic Expanse {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Tectonic Edge {manacost: "", colors: "", types: [Land], cmc: 0.00} @land_destruction
-[1] Ghost Quarter {manacost: "", colors: "", types: [Land], cmc: 0.00} @land_destruction
-[1] Scavenger Grounds {manacost: "", colors: "", types: [Land], cmc: 0.00} @graveyard_hate
-[1] Orzhov Guildgate {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Forsaken Sanctuary {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Scoured Barrens {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Boros Guildgate {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Stone Quarry {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Wind-Scarred Crag {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Rakdos Guildgate {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Urborg Volcano {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Bloodfell Caves {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Akoum Refuge {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[1] Shinka, the Bloodsoaked Keep {manacost: "", colors: "", types: [Land], cmc: 0.00} @first_strike
-[1] Bojuka Bog {manacost: "", colors: "", types: [Land], cmc: 0.00} @graveyard_hate
-[6] Swamp {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[5] Plains {manacost: "", colors: "", types: [Land], cmc: 0.00} 
-[5] Mountain {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[1] Queen Marchesa
 
 
-// Possible Additions
-// Offspring's Revenge
+////////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Rakdos Signet @ramp
+[1] Orzhov Signet @ramp
+[1] Boros Signet @ramp
+[1] Arcane Signet @ramp
+[1] Commander's Sphere @ramp
+[1] Sword of the Animist @ramp
+[1] Curse of Opulence @ramp @soft_defense
+[1] Shiny Impetus @ramp @goad
 
-// Removed
-// Gifted Aetherborn {manacost: "{B}{B}", colors: "B", types: [Creature], cmc: 2.00} @deathtouch
-// Aura of Silence {manacost: "{1}{W}{W}", colors: "W", types: [Enchantment], cmc: 3.00} @artifact_removal @enchantment_removal
-// Dauthi Embrace {manacost: "{2}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @evasion
-// Total War {manacost: "{3}{R}", colors: "R", types: [Enchantment], cmc: 4.00} @combat_encouragement
-// Solemn Simulacrum {manacost: "{4}", colors: "", types: [Artifact, Creature], cmc: 4.00} @ramp
-// Neheb, Dreadhorde Champion {manacost: "{2}{R}{R}", colors: "R", types: [Creature], cmc: 4.00} 
-// Skeleton Key {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @evasion
-// Deflecting Palm {manacost: "{W}{R}", colors: "WR", types: [Instant], cmc: 2.00} 
-// Blind Obedience {manacost: "{1}{W}", colors: "W", types: [Enchantment], cmc: 2.00} @combat_encouragement
-// Vow of Lightning {manacost: "{2}{R}", colors: "R", types: [Enchantment], cmc: 3.00} @defense
-// Vow of Malice {manacost: "{2}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @defense
-// Rakdos Charm {manacost: "{B}{R}", colors: "BR", types: [Instant], cmc: 2.00} @artifact_removal @graveyard_hate
-// Blessing of Leeches {manacost: "{2}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @regeneration
-// Soul Channeling {manacost: "{2}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @regeneration
-// Akroma, Angel of Wrath {manacost: "{5}{W}{W}{W}", colors: "W", types: [Creature], cmc: 8.00} 
-// Sidisi, Undead Vizier {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00} @deathtouch
-// Viridian Claw {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @first_strike
-// Behind the Scenes {manacost: "{2}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @evasion
-// Whispersilk Cloak {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @evasion
-// Syphon Mind {manacost: "{3}{B}", colors: "B", types: [Sorcery], cmc: 4.00} @draw
-// Alesha, Who Smiles at Death {manacost: "{2}{R}", colors: "R", types: [Creature], cmc: 3.00} @graveyard_recursion
-// Typhoid Rats {manacost: "{B}", colors: "B", types: [Creature], cmc: 1.00} @deathtouch
-// Hired Poisoner {manacost: "{B}", colors: "B", types: [Creature], cmc: 1.00} @deathtouch
-// Price of Glory {manacost: "{2}{R}", colors: "R", types: [Enchantment], cmc: 3.00} 
-// Sparring Collar {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @first_strike
-// Charging Cinderhorn {manacost: "{3}{R}", colors: "R", types: [Creature], cmc: 4.00} @combat_encouragement
-// Master Warcraft {manacost: "{2}", colors: "WR", types: [Instant], cmc: 4.00} @combat_encouragement
-// Rite of the Raging Storm {manacost: "{3}{R}{R}", colors: "R", types: [Enchantment], cmc: 5.00} @combat_encouragement
-// Phyrexian Arena {manacost: "{1}{B}{B}", colors: "B", types: [Enchantment], cmc: 3.00} @draw
-// Fell the Mighty {manacost: "{4}{W}", colors: "W", types: [Sorcery], cmc: 5.00} @creature_wipe
-// Swords to Plowshares {manacost: "{W}", colors: "W", types: [Instant], cmc: 1.00} @creature_removal
-// Nether Traitor {manacost: "{B}{B}", colors: "B", types: [Creature], cmc: 2.00} @evasion
-// Seraph of the Scales {manacost: "{2}{W}{B}", colors: "WB", types: [Creature], cmc: 4.00} @deathtouch
-// Soul of Innistrad {manacost: "{4}{B}{B}", colors: "B", types: [Creature], cmc: 6.00} @deathtouch @graveyard_recursion
-// Peregrine Mask {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @first_strike
-// Orzhov Advokist {manacost: "{2}{W}", colors: "W", types: [Creature], cmc: 3.00} @defense
-// Territorial Hellkite {manacost: "{2}{2}{R}{R}", colors: "R", types: [Creature], cmc: 4.00}
-// Chandra's Ignition {manacost: "{3}{R}{R}", colors: "R", types: [Sorcery], cmc: 5.00} @creature_wipe
-// Moonlight Bargain {manacost: "{3}{B}{B}", colors: "B", types: [Instant], cmc: 5.00} @draw
-// Righteous Aura {manacost: "{1}{W}", colors: "W", types: [Enchantment], cmc: 2.00} @defense @protect_monarch
-// Banshee of the Dread Choir {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00}
-// Despark {manacost: "{W}{B}", colors: "WB", types: [Instant], cmc: 2.00} @permanent_removal
-// War Cadence {manacost: "{2}{R}", colors: "R", types: [Enchantment], cmc: 3.00} @combat_encouragement
-// War's Toll
-// Island Sanctuary
-// Solitary Confinement
+
+////////////////////////////////////////
+//// Draw
+[1] Night's Whisper @draw
+[1] Alms Collector @draw
+[1] Blood Pact @draw
+[1] Read the Bones @draw
+[1] Stinging Study @draw
+[1] Painful Truths @draw
+[1] Mangara, the Diplomat @draw
+[1] Karazikar, the Eye Tyrant @draw @soft_defense @goad
+[1] Crushing Disappointment @draw
+[1] Dark Bargain @draw
+
+
+////////////////////////////////////////
+//// Wipes & Removal
+[1] Merciless Eviction @wipe
+[1] Promise of Loyalty @wipe
+[1] Path to Exile @creature_removal
+[1] Swords to Plowshares @creature_removal
+[1] Infernal Grasp @creature_removal
+[1] Rakdos Charm @artifact_removal @graveyard_hate
+[1] Chaos Warp @permanent_removal
+[1] Excavation Technique @permanent_removal
+[1] Anguished Unmaking @permanent_removal
+[1] Despark @permanent_removal
+
+
+////////////////////////////////////////
+//// Soft Defenses (Discourage Attacks)
+[1] Norn's Decree @soft_defense
+[1] Emberwilde Captain @soft_defense @monarch
+[1] Ghostly Prison @soft_defense
+[1] Breena, the Demagogue @soft_defense
+[1] Crown of Doom @soft_defense
+[1] Duelist's Heritage @soft_defense
+[1] Frontier Warmonger @soft_defense
+[1] Combat Calligrapher @soft_defense
+[1] Frenzied Saddlebrute @soft_defense
+[1] Orzhov Advokist @soft_defense
+[1] Agitator Ant @soft_defense @goad
+[1] Brash Taunter @soft_defense
+
+
+////////////////////////////////////////
+//// Goad
+[1] Kardur, Doomscourge @goad @force_attacks
+[1] Bloodthirsty Blade @goad @force_attacks
+[1] Geode Rager @goad @force_attacks
+[1] Disrupt Decorum @goad @force_attacks
+[1] Vengeful Ancestor @goad @force_attacks
+[1] Taunt from the Rampart @goad @force_attacks
+[1] Coronation of Chaos @goad @force_attacks
+
+
+////////////////////////////////////////
+//// Force Attacks
+[1] Fumiko the Lowblood @force_attacks
+[1] Warmonger Hellkite @force_attacks
+[1] Master Warcraft @force_attacks @fog
+
+
+////////////////////////////////////////
+//// Fogs
+[1] Selfless Squire @fog
+[1] Inkshield @fog
+[1] Deflecting Palm @fog
+[1] Comeuppance @fog
+
+
+////////////////////////////////////////
+//// Misc
+[1] Skyline Despot @monarch
+[1] Court of Grace @monarch
+[1] Etali, Primal Storm
+[1] Chandra, Awakened Inferno
+[1] Descent into Avernus
+[1] Delirium
+
+
+////////////////////////////////////////
+//// Lands
+[1] Evolving Wilds
+[1] Terramorphic Expanse
+[1] Rogue's Passage
+[1] Access Tunnel
+[1] Mystifying Maze
+[1] Labyrinth of Skophos
+[1] Tectonic Edge
+[1] Ghost Quarter
+[1] Scavenger Grounds @graveyard_hate
+[1] Command Tower
+[1] Grand Coliseum
+[1] Rakdos Carnarium
+[1] Temple of Malice
+[1] Shadowblood Ridge
+[1] Smoldering Marsh
+[1] Orzhov Basilica
+[1] Temple of Silence
+[1] Caves of Koilos
+[1] Boros Garrison
+[1] Temple of Triumph
+[1] Clifftop Retreat
+[1] Battlefield Forge
+[1] Bojuka Bog @graveyard_hate
+[4] Swamp
+[5] Plains
+[5] Mountain
+
+
+
+//// Removed
+// Revenge of Ravens @soft_defense
+// Marchesa's Decree @soft_defense @monarch
+// War Cadence
+// Iroas, God of Victory
+// Sphere of Safety @soft_defense
+// Dismantling Wave @artifact_removal @enchantment_removal
+// Court of Grace @monarch
+// Parasitic Impetus @hard_defense @goad
+// Shadrix Silverquill
+// Viridian Longbow
+// Thornbite Staff
+// Chariot of Victory
+// Vow of Malice @hard_defense
+// Blind Obedience
+// Norn's Annex @soft_defense
+// Vow of Duty @hard_defense
+// Vow of Lightning @hard_defense
+// Vow of Torment @hard_defense
+// Martial Impetus @hard_defense @goad
+// Nils, Discipline Enforcer @soft_defense
+// Brutal Hordechief
+// Thorn of the Black Rose @monarch
+// Goblin Spymaster @force_attacks
+// Sword of the Animist @ramp
+// Court of Ambition @monarch
+// Curse of Hospitality @soft_defense
+// Charging Cinderhorn @force_attacks
+// Righteous Aura @hard_defense
+// Thaumatic Compass
+// Death Tyrant
+// Commander's Sphere @ramp
+// Windborn Muse @soft_defense
+// Whispersilk Cloak
+// Rite of the Raging Storm
+// War's Toll @force_attacks
+// Sudden Spoiling @fog
+// Fracture @artifact_removal @enchantment_removal
+// Sunscorch Regent
+// Keen Duelist @draw
+// Backlash
+// Search the Premises @soft_defense
+// Cunning Rhetoric @soft_defense
+// Kazuul, Tyrant of the Cliffs @soft_defense
+// Charging Cinderhorn @force_attacks

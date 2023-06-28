@@ -1,0 +1,138 @@
+[1] Phenax, God of Deception
+
+
+
+//////////////////////////////
+//// Ramp
+[1] As Foretold @ramp
+
+
+//////////////////////////////
+//// Draw
+[1] Windfall @draw
+[1] Jace's Archivist @draw
+[1] Intellectual Offering @draw
+[1] Rain of Revelation @draw
+[1] Read the Bones @draw
+[1] Into the Story @draw
+[1] Notion Rain @draw
+[1] Master of Winds @draw @big_butt
+[1] Sire of Stagnation @big_butt @mill @draw
+[1] Body of Knowledge @draw
+[1] Future Sight @draw
+[1] Behold the Multiverse @draw
+[1] Treasure Cruise @draw
+[1] Dig Through Time @draw
+[1] Chemister's Insight @draw
+
+
+//////////////////////////////
+//// Wipes & Removal
+[1] Feast of Succession @wipe
+[1] Pongify @creature_removal
+[1] Ravenform @creature_removal @artifact_removal
+[1] Infernal Grasp @creature_removal
+[1] Expel from Orazca @permanent_removal
+[1] Drown in the Loch @counter @creature_removal
+[1] Mystic Confluence @counter @creature_removal
+[1] Memory Lapse @counter
+[1] Disallow @counter
+
+
+//////////////////////////////
+//// Big Butts
+[1] Ruin Crab @big_butt
+[1] Wall of Frost @big_butt
+[1] Hover Barrier @big_butt
+[1] Glacial Wall @big_butt
+[1] Crashing Drawbridge @big_butt
+[1] Dragon's Eye Savants @big_butt
+[1] Charix, the Raging Isle @big_butt
+[1] Wall of Air @big_butt
+[1] Imperious Mindbreaker @big_butt
+[1] Wrexial, the Risen Deep @big_butt
+[1] Consuming Aberration @big_butt
+[1] Wight of Precinct Six @big_butt
+[1] Mortivore @big_butt
+[1] Bonehoard @big_butt
+[1] Nighthowler @big_butt
+[1] Jace's Phantasm @big_butt
+[1] Sewer Nemesis @big_butt
+[1] The Haunt of Hightower @big_butt
+[1] Hunted Horror @big_butt
+[1] Bruvac, the Grandiloquent @big_butt @mill
+
+
+//////////////////////////////
+//// Good Old Fashined Mill
+[1] Tasha's Hideous Laughter @mill
+[1] Memory Erosion @mill
+[1] Maddening Cacophony @mill
+[1] Psychic Corrosion @mill
+[1] Mirko Vosk, Mind Drinker @mill
+[1] Mindcrank @mill
+[1] Dreamborn Muse @mill
+[1] Mesmeric Orb @mill
+
+
+//////////////////////////////
+//// Graveyard Hate
+[1] Author of Shadows @graveyard_hate
+[1] Nihil Spellbomb @graveyard_hate
+[1] Sentinel Totem @graveyard_hate
+
+
+//////////////////////////////
+//// Misc
+[1] Freed from the Real
+[1] Pemmin's Aura
+[1] Memory Plunder @misc
+[1] Duskmantle Guildmage @misc
+[1] Scheming Symmetry
+[1] Varragoth, Bloodsky Sire
+
+
+//////////////////////////////
+//// Lands
+[01] Scavenger Grounds @land @graveyard_hate
+[01] Bojuka Bog @land @graveyard_hate
+[01] Myriad Landscape @land
+[01] Mystic Sanctuary @land
+[01] Witch's Cottage @land
+[01] Command Tower @land
+[01] Rogue's Passage @land
+[15] Island @land
+[14] Swamp @land
+
+
+//////////////////////////////
+//// Removed
+// Teferi's Tutelage
+// Sphinx's Tutelage
+// King Narfi's Betrayal
+// Soul-Guide Lantern
+// Diabolic Tutor
+// Arcane Denial
+// Sepulchral Primordial
+// Sign in Blood
+// Dramatic Reversal
+// Tide Drifter
+// Notion Thief
+// Dimir Doppelganger
+// Silent Arbiter
+// Riddlekeeper
+// Depart the Realm
+// Wall of Mist
+// Guiltfeeder
+// Amaranthine Wall
+// Murmuring Mystic
+// Riptide Turtle
+// Enter the God-Eternals
+// Mnemonic Wall
+// Ruin Crab
+// Languish
+// Feast of Succession
+// Keening Stone
+// Boneyard Parley
+// Wipe Away @permanent_removal
+// Sol Ring @ramp

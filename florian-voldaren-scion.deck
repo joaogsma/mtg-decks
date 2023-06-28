@@ -1,0 +1,156 @@
+[1] Florian, Voldaren Scion
+
+
+///////////////////////////////////////
+//// Ramp
+[1] Wayfarer's Bauble @ramp
+[1] Sol Ring @ramp
+[1] Rakdos Signet @ramp
+[1] Arcane Signet @ramp
+[1] Gilded Lotus @ramp
+[1] Mind Stone @ramp
+[1] Cryptolith Fragment @ramp @burn
+[1] Storm-Kiln Artist @ramp @spellslinger_payoff
+[1] Pyromancer's Goggles @ramp
+[1] Prosper, Tome-Bound @ramp @draw
+
+
+///////////////////////////////////////
+//// Draw
+[1] Light Up the Stage @draw
+[1] Reckless Impulse @draw
+[1] Sign in Blood @draw
+[1] Read the Bones @draw
+[1] Theater of Horrors @draw
+[1] Bad Deal @draw
+[1] Crushing Disappointment @draw @burn
+[1] Ignite the Future @draw
+[1] Keen Duelist @draw @burn
+[1] Syr Carah, the Bold @draw @burn
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Blasphemous Act @wipe
+[1] Delayed Blast Fireball @wipe @burn
+[1] Terminate @creature_removal
+[1] Infernal Grasp @creature_removal
+[1] Bedevil @creature_removal @artifact_removal
+[1] Dreadbore @creature_removal
+[1] Feed the Swarm @creature_removal @enchantment_removal
+[1] Unlicensed Disintegration @creature_removal
+[1] Chaos Warp @permanent_removal
+[1] Rakdos Charm @burn @graveyard_hate @artifact_removal
+[1] Bladegriff Prototype @artifact_removal @enchantment_removal @burn
+
+
+///////////////////////////////////////
+//// BURN (Instants & Sorceries)
+[1] Price of Progress @burn
+[1] Flame Rift @burn
+[1] Acidic Soil @burn
+[1] Risk Factor @burn
+[1] Slagstorm @burn
+[1] Sizzle @burn
+[1] Arterial Flow @burn
+
+
+///////////////////////////////////////
+//// BURN (spellslinger Payoffs)
+[1] Guttersnipe @burn @spellslinger_payoff
+[1] Thermo-Alchemist @burn @spellslinger_payoff
+[1] Firebrand Archer @burn @spellslinger_payoff
+[1] Kessig Flamebreather @burn @spellslinger_payoff
+[1] Lambholt Raconteur @burn @spellslinger_payoff
+[1] Blisterspit Gremlin @burn @spellslinger_payoff
+[1] Electrostatic Field @burn @spellslinger_payoff
+[1] Smoldering Egg // Ashmouth Dragon @burn @spellslinger_payoff
+
+
+///////////////////////////////////////
+//// BURN (Permanents)
+[1] Loyal Subordinate @burn
+[1] Pyrohemia @burn
+[1] Pestilence @burn
+[1] Twilight Prophet @burn
+[1] Territorial Hellkite @burn
+
+
+///////////////////////////////////////
+//// Damage Increasers
+[1] Torbran, Thane of Red Fell @damage_increaser
+[1] Fiery Emancipation @damage_increaser
+[1] Angrath's Marauders @damage_increaser
+[1] Wound Reflection @damage_increaser
+
+
+///////////////////////////////////////
+//// Misc
+[1] Double Vision @spellslinger_payoff
+[1] Arcane Bombardment @spellslinger_payoff
+[1] Fires of Invention
+[1] Backdraft Hellkite
+[1] Cryptborn Horror
+[1] Mana Geyser
+[1] Dark Ritual
+
+
+///////////////////////////////////////
+//// Lands
+  [01] Command Tower
+  [01] Myriad Landscape @ramp
+  [01] Scavenger Grounds @graveyard_hate
+  [01] Ghost Quarter
+  [01] Tectonic Edge
+  [01] Temple of the False God
+  [01] Grixis Panorama
+  [01] Bojuka Bog @graveyard_hate
+  [01] Malakir Rebirth // Malakir Mire @saving_spell
+  [01] Rakdos Carnarium
+  [01] Temple of Malice
+  [01] Leechridden Swamp @burn
+  [01] Shivan Gorge @burn
+  [01] Spinerock Knoll
+  [10] Swamp
+  [13] Mountain
+
+
+
+
+//// Removed
+// Satyr Firedancer
+// Kaervek the Merciless @group_slug
+// Scab-Clan Berserker @group_slug
+// Wildfire Eternal @burn
+// Roiling Vortex @group_slug
+// Burning Earth @group_slug
+// Harsh Mentor @group_slug
+// Sulfuric Vortex @group_slug
+// Citadel of Pain @group_slug
+// Maddening Hex @group_slug
+// Hero's Downfall @creature_removal
+// Heartless Hidetsugu @burn
+// Chandra's Incinerator
+// Tectonic Giant @burn
+// Sentinel Tower @burn @spellslinger_payoff
+// Aria of Flame @burn @spellslinger_payoff
+// Fiery Confluence @artifact_removal @burn
+// Strionic Resonator
+// Geistflame Reservoir @spellslinger_payoff
+// Vandalblast @artifact_removal
+// Wild-Magic Sorcerer
+// Gruesome Fate @burn //0.13
+// Retreat to Hagra @burn // 0.30
+// Palace Siege @burn // 1.25
+// Embermaw Hellion @damage_increaser // 0.31
+// Blood Tithe @burn // 0.21
+// Sanctum of Stone Fangs @burn // 0.58
+// Court of Ambition @burn // 1.13
+// Bond of Agony // 1.05
+// Sphinx Bone-Wand @burn @spellslinger_payoff
+// Smash to Smithereens @artifact_removal @burn
+// Professor's Warning @saving_spell
+// Feign Death @saving_spell
+// Supernatural Stamina @saving_spell
+// Undying Malice @saving_spell
+// Mizzix's Mastery

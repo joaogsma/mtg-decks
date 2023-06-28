@@ -1,0 +1,142 @@
+///////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Decanter of Endless Water @ramp @no_hand_size
+[1] Thought Vessel @ramp @no_hand_size
+[1] Rampant Growth @ramp
+[1] Rhonas's Monument @ramp
+[1] Cultivate @ramp
+[1] Kodama's Reach @ramp
+[1] Nissa's Pilgrimage @ramp
+[1] Traverse the Outlands @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Momentous Fall @cash_in @draw
+[1] Life's Legacy @cash_in @draw
+[1] Greater Good @cash_in @draw
+[1] Rishkar's Expertise @draw
+[1] Return of the Wildspeaker @draw
+[1] Garruk's Uprising @draw
+[1] Hunter's Insight @draw
+
+
+///////////////////////////////////////
+//// Removal
+[1] Bane of Progress @fighter @artifact_wipe @enchantment_wipe
+[1] Beast Within @permanent_removal
+[1] Ulvenwald Tracker @creature_removal
+[1] Ram Through @creature_removal
+[1] Prey Upon @creature_removal
+[1] Predatory Urge @creature_removal @cash_in
+[1] Bouncer's Beatdown @creature_removal @cash_in
+[1] Band Together @creature_removal
+[1] Reclamation Sage @artifact_removal @enchatment_removal
+[1] Krosan Grip @artifact_removal @enchatment_removal
+[1] Acidic Slime @fighter @artifact_removal @enchatment_removal
+
+
+///////////////////////////////////////
+//// Grothama Cash In
+[1] Temur Sabertooth @cash_in
+
+
+///////////////////////////////////////
+//// Fighters
+[1] Managorger Hydra @fighter
+[1] Mossbridge Troll @fighter
+[1] Broodhatch Nantuko @fighter
+[1] Ghalta, Primal Hunger @fighter
+[1] Vigor @fighter
+[1] Stuffy Doll @fighter
+[1] Kogla, the Titan Ape @fighter
+[1] God-Eternal Rhonas @fighter
+[1] Undergrowth Champion @fighter
+[1] Groundbreaker @fighter
+[1] Hunted Troll @fighter
+[1] Ancient Silverback @fighter
+[1] Cudgel Troll @fighter
+[1] Silvos, Rogue Elemental @fighter
+
+
+///////////////////////////////////////
+//// Hand Size Matters
+[1] Maro @fighter @hand_size_matters
+[1] Masumaro, First to Live @fighter @hand_size_matters
+[1] Multani, Maro-Sorcerer @fighter @hand_size_matters
+[1] Psychosis Crawler @fighter @hand_size_matters
+[1] Sage of Ancient Lore // Werewolf of Ancient Hunger @fighter @hand_size_matters
+[1] Jolrael, Mwonvuli Recluse @hand_size_matters
+[1] Hand of Vecna @hand_size_matters
+
+
+///////////////////////////////////////
+//// Protection
+[1] Lightning Greaves @protection
+[1] Swiftfoot Boots @protection
+[1] Molting Skin @protection
+[1] Spearbreaker Behemoth @protection @fighter
+[1] Tamiyo's Safekeeping @protection
+[1] Snakeskin Veil @protection
+
+
+///////////////////////////////////////
+//// Misc
+[1] Brawn
+[1] Rancor
+[1] Dragon Throne of Tarkir
+[1] Goreclaw, Terror of Qal Sisma
+[1] Surrak, the Hunt Caller
+[1] Scavenging Ooze @graveyard_hate
+[1] Yeva, Nature's Herald
+[1] Shield of the Realm
+
+
+///////////////////////////////////////
+//// Lands
+[01] Rogue's Passage
+[01] Sanctum of Eternity @cash_in
+[01] Witch's Clinic
+[01] Ghost Quarter
+[01] Tectonic Edge
+[01] Scavenger Grounds @graveyard_hate
+[01] Myriad Landscape @ramp
+[01] Blighted Woodland @ramp
+[01] Endless Sands @cash_in
+[01] High Market @cash_in
+[01] Reliquary Tower @no_hand_size
+[01] Khalni Ambush // Khalni Territory @creature_removal
+[01] Mosswort Bridge
+[01] Bala Ged Recovery // Bala Ged Sanctuary
+[23] Forest
+
+
+
+//// Removed
+// Mortal's Resolve @protection
+// Asceticism @protection
+// Unnatural Growth
+// Obscuring Haze @protection
+// Not of This World @protection
+// Overwhelming Stampede
+// Voyager Staff @cash_in
+// Evolutionary Leap @cash_in
+// Return to Nature @artifact_removal @enchatment_removal @graveyard_hate
+// Altar of Dementia @cash_in
+// Broken Fall @protection
+// Cauldron of Souls
+// Getaway Car @cash_in @fighter
+// First Responder @cash_in
+// Withstand Death @protection
+// Wrap in Vigor @protection
+// Lignify @creature_removal
+// Skyshroud Claim @ramp
+// Erratic Portal @cash_in
+// Mirage Mirror @cash_in
+// Harmonize @draw
+// Kenrith's Transformation @creature_removal
+// Ezuri's Predation @wipe
+// Descendant of Masumaro
+// Stonehoof Chieftain @fighter
+// Saber Ants @fighter

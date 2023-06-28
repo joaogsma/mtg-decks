@@ -1,0 +1,156 @@
+[1] Kaza, Roil Chaser {manacost: "{U}{R}", colors: "UR", types: [Creature], cmc: 2.00} @wizard
+
+///////////////////////////////////////
+//// Ramp
+[1] Patriar's Seal {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00} @ramp @untapper
+[1] Sol Ring {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
+[1] Primal Amulet {manacost: "{4}", colors: "", types: [Artifact, Land], cmc: 4.00} @ramp @spell_copy
+[1] Mitotic Manipulation {manacost: "{1}{U}{U}", colors: "", types: [Sorcery], cmc: 3.00} @ramp
+[1] Retraced Image {manacost: "{U}", colors: "U", types: [Sorcery], cmc: 1.00} @ramp
+[1] Goblin Electromancer {manacost: "{U}{R}", colors: "UR", types: [Creature], cmc: 2.00} @ramp @wizard
+[1] Vodalian Arcanist {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @ramp @wizard
+[1] Karfell Harbinger {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @ramp @wizard
+[1] Apprentice Wizard {manacost: "{1}{U}{U}", colors: "U", types: [Creature], cmc: 3.00} @ramp @wizard
+[1] Fatestitcher {manacost: "{3}{U}", colors: "U", types: [Creature], cmc: 4.00} @untapper @wizard @ramp
+[1] Aphetto Alchemist {manacost: "{2}", colors: "U", types: [Creature], cmc: 2.00} @ramp @wizard
+[1] Storm-Kiln Artist {manacost: "{3}{R}", colors: "R", types: [Creature], cmc: 4.00} @spellslinger_payoff @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Mercurial Chemister {manacost: "{3}{U}{R}", colors: "UR", types: [Creature], cmc: 5.00} @draw @wizard
+[1] Archmage Emeritus {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @draw @wizard @spellslinger_payoff
+[1] Azami, Lady of Scrolls {manacost: "{2}{U}{U}{U}", colors: "U", types: [Creature], cmc: 5.00} @draw @wizard
+[1] Rain of Revelation {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @draw
+[1] Behold the Multiverse {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @draw
+[1] Tamiyo's Epiphany {manacost: "{3}{U}", colors: "U", types: [Sorcery], cmc: 4.00} @draw
+[1] Foresee {manacost: "{3}{U}", colors: "U", types: [Sorcery], cmc: 4.00} @draw
+[1] Ignite the Future {manacost: "{3}{R}", colors: "R", types: [Sorcery], cmc: 4.00} @draw
+[1] Plagiarize {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @draw
+[1] Niv Mizzet, Parun {manacost: "{U}{U}{U}{R}{R}{R}", colors: "UR", types: [Creature], cmc: 6.00} @spellslinger_payoff @draw @wizard
+[1] Expressive Iteration {manacost: "{U}{R}", colors: "UR", types: [Sorcery], cmc: 2.00} @draw
+[1] Overwhelming Intellect {manacost: "{4}{U}{U}", colors: "U", types: [Instant], cmc: 6.00} @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Blasphemous Act {manacost: "{8}{R}", colors: "R", types: [Sorcery], cmc: 9.00} @wipe
+[1] Cyclonic Rift {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @wipe
+[1] Volcanic Vision {manacost: "{5}{R}{R}", colors: "R", types: [Sorcery], cmc: 7.00} @wipe
+[1] Vandalblast {manacost: "{R}", colors: "R", types: [Sorcery], cmc: 1.00} @wipe @artifact_removal
+[1] Curse of the Swine {manacost: "{X}{U}{U}", colors: "U", types: [Sorcery], cmc: 2.00} @creature_removal
+[1] Reality Shift {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @creature_removal
+[1] Pongify {manacost: "{U}", colors: "U", types: [Instant], cmc: 1.00} @creature_removal
+[1] Rapid Hybridization {manacost: "{U}", colors: "U", types: [Instant], cmc: 1.00} @creature_removal
+[1] Chaos Warp {manacost: "{2}{R}", colors: "R", types: [Instant], cmc: 3.00} @permanent_removal
+[1] Galecaster Colossus {manacost: "{5}{U}{U}", colors: "U", types: [Creature], cmc: 7.00} @wizard @permanent_removal
+[1] Mana Drain {manacost: "{U}{U}", colors: "U", types: [Instant], cmc: 2.00} @counter
+[1] Muddle the Mixture {manacost: "{U}{U}", colors: "U", types: [Instant], cmc: 2.00} @counter
+[1] Swan Song {manacost: "{U}", colors: "U", types: [Instant], cmc: 1.00} @counter
+[1] Arcane Denial {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @counter @half_draw
+
+
+///////////////////////////////////////
+//// Spellsling Payoffs
+[1] Burning Prophet {manacost: "{1}{R}", colors: "R", types: [Creature], cmc: 2.00} @spellslinger_payoff @wizard
+[1] Metallurgic Summonings {manacost: "{3}{U}{U}", colors: "U", types: [Enchantment], cmc: 5.00} @spellslinger_payoff
+[1] Deekah, Fractal Theorist {manacost: "{4}{U}", colors: "U", types: [Creature], cmc: 5.00} @spellslinger_payoff
+[1] Sunbird's Invocation {manacost: "{5}{R}", colors: "R", types: [Enchantment], cmc: 6.00} @spellslinger_payoff
+[1] Arcane Bombardment {manacost: "{4}{R}{R}", colors: "R", types: [Enchantment], cmc: 6.00} @spellslinger_payoff
+[1] Double Vision {manacost: "{3}{R}{R}", colors: "R", types: [Enchantment], cmc: 5.00} @spellslinger_payoff @spell_copy
+[1] Ral, Storm Conduit {manacost: "{2}{U}{R}", colors: "UR", types: [Planeswalker], cmc: 4.00} @spellslinger_payoff @spell_copy
+[1] Talrand, Sky Summoner {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard @spellslinger_payoff
+[1] Jin-Gitaxias, Progress Tyrant {manacost: "{5}{U}{U}", colors: "U", types: [Creature], cmc: 7.00} @spellslinger_payoff
+[1] Docent of Perfection {manacost: "{3}{U}{U}", colors: "U", types: [Creature], cmc: 5.00} @wizard @spellslinger_payoff
+
+
+///////////////////////////////////////
+//// Wizards
+[1] Dualcaster Mage {manacost: "{1}{R}{R}", colors: "R", types: [Creature], cmc: 3.00} @wizard @spell_copy
+[1] Archaeomancer {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard
+[1] Shipwreck Dowser {manacost: "{3}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard
+[1] Wizards of Thay {manacost: "{3}{U}", colors: "U", types: [Creature], cmc: 4.00} @wizard
+[1] Fatespinner {manacost: "{1}{U}{U}", colors: "U", types: [Creature], cmc: 3.00} @wizard
+[1] Gale, Waterdeep Prodigy {manacost: "{2}{U}", colors: "U", types: [Creature], cmc: 3.00} @wizard
+
+
+///////////////////////////////////////
+//// Big Spells
+[1] Mizzix's Mastery {manacost: "{3}{R}", colors: "R", types: [Sorcery], cmc: 4.00} @big_spell
+[1] Cracke With Power {manacost: "{X}{X}{X}{R}{R}", colors: "R", types: [Sorcery], cmc: 2.00} @big_spell
+[1] Mnemonic Deluge {manacost: "{6}{U}{U}{U}", colors: "U", types: [Sorcery], cmc: 9.00} @big_spell
+[1] Apex of Power {manacost: "{7}{R}{R}{R}", colors: "R", types: [Sorcery], cmc: 10.00} @big_spell
+[1] Rite of Replication {manacost: "{2}{U}{U}", colors: "U", types: [Sorcery], cmc: 4.00} @big_spell
+
+
+///////////////////////////////////////
+//// Misc
+[1] Overmaster {manacost: "{R}", colors: "R", types: [Sorcery], cmc: 1.00}
+[1] Aetherize {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00}
+[1] Aetherspouts {manacost: "{3}{U}{U}", colors: "U", types: [Instant], cmc: 5.00}
+[1] Solve the Equation {manacost: "{2}{U}", colors: "U", types: [Sorcery], cmc: 3.00} @counter
+[1] Narset's Reversal {manacost: "{U}{U}", colors: "U", types: [Instant], cmc: 2.00} @counter
+
+
+///////////////////////////////////////
+//// Lands
+[01] Myriad Landscape {manacost: "", colors: "", types: [Land], cmc: 0.00} @ramp
+[01] Reliquary Tower {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Tectonic Edge {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Ghost Quarter {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Scavenger Grounds {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Steam Vents {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Cascade Bluffs {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Command Tower {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Path of Ancestry {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Shivan Reef {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Silundi Vision // Silundi Isle {manacost: "{2}{U}", colors: "U", types: [Instant, Land], cmc: 3.00}
+[01] Glasspool Mimic // Glasspool Shore {manacost: "{2}{U}", colors: "U", types: [Instant, Land], cmc: 3.00}
+[01] Mystic Sanctuary {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[12] Island {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[10] Mountain {manacost: "", colors: "", types: [Land], cmc: 0.00}
+
+
+
+////// Removed
+// Jace's Archivist
+// Retreat to Coralhelm
+// Domineering Will
+// Electrostatic Field
+// Magmatic Channeler
+// Vizier of Tumbling Sands
+// Firemind's Foresight
+// Clone Legion
+// Sage of Fables
+// Swarm Intelligence
+// Shark Typhoon
+// Retreat to Coralhelm
+// Aethersnatch
+// Leyline of Anticipation
+// Mana Geyser
+// Omnispell Adept
+// Goblin Wizardry
+// God-Eternal Kefnet
+// Comet Storm
+// Electrodominance
+// Rite of Replication
+// Stroke of Genius
+// Arcanis The Omnipotent
+// Spelltwine
+// Insidious Will
+// Swarm Intelligence
+// Reiterate
+// Trickbind
+// Young Pyromancer
+// Bonus Round
+// Expressive Iteration
+// Saheeli, Sublime Artificer
+// Guttersnipe
+// Thermo-Alchemist
+// Ponder
+// Serum Visions
+// Preordain
+// Aminatou's Augury
+// Recurring Insight
+// Veyran, Voice of Duality
+// Sly Instigator

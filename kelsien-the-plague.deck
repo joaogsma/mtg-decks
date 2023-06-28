@@ -1,0 +1,146 @@
+[1] Kelsien, the Plague
+
+///////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Arcane Signet @ramp
+[1] Boros Signet @ramp
+[1] Orzhov Signet @ramp
+[1] Rakdos Signet @ramp
+[1] Talisman of Hierarchy @ramp
+[1] Talisman of Conviction @ramp
+[1] Commander's Sphere @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Night's Whisper @draw
+[1] Reckless Impulse @draw
+[1] Blood Pact @draw
+[1] Read the Bones @draw
+[1] Painful Truths @draw
+[1] Mask of Griselbrand @draw
+[1] Morbid Opportunist @draw
+[1] Harvester of Souls @draw
+[1] Clackbridge Troll @ping_fodder @draw
+[1] Shadrix Silverquill @ping_fodder @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Tragic Arrogance @creature_finisher @wipe
+[1] Chandra's Ignition @wipe
+[1] Vandalblast @artifact_removal
+[1] Rakdos Charm @artifact_removal @graveyard_hate
+[1] Dismantling Wave @artifact_removal @enchantment_removal
+[1] Chaos Warp @permanent_removal
+[1] Generous Gift @permanent_removal
+[1] Path to Exile @creature_removal
+[1] Swords to Plowshares @creature_removal
+[1] Mortify @creature_removal @enchantment_removal
+
+
+///////////////////////////////////////
+//// Pingers
+[1] Cunning Sparkmage @pinger
+[1] Blood Cultist @pinger
+[1] Endbringer @pinger
+[1] Vulshok Sorcerer @pinger
+[1] Fireslinger @pinger
+[1] Prodigal Pyromancer @pinger
+[1] Rakdos Ickspitter @pinger
+[1] Stun Sniper @pinger
+[1] Vithian Stinger @pinger
+[1] Wojek Embermage @pinger
+
+
+///////////////////////////////////////
+//// Untap
+[1] Thornbite Staff @untap
+[1] Moraug, Fury of Akoum @untap
+
+
+///////////////////////////////////////
+//// Ping Fodder
+[1] Rite of the Raging Storm @ping_fodder
+
+
+///////////////////////////////////////
+//// Creature Finishers & Deathtouch
+// Recurrent
+  [1] Basilisk Collar @creature_finisher
+  [1] Gorgon Flail @creature_finisher
+  [1] Gorgon's Head @creature_finisher
+  [1] Gift of Doom @creature_finisher
+  [1] Rune of Mortality @creature_finisher
+  [1] Insatiable Hemophage @creature_finisher
+  [1] Archetype of Finality @creature_finisher
+  [1] Zagras, Thief of Heartbeats @creature_finisher
+// Once
+  [1] You are Already Dead @creature_finisher
+  [1] Crackling Doom @creature_finisher
+  [1] Soul Shatter @creature_finisher
+
+
+///////////////////////////////////////
+//// Protection
+[1] Whispersilk Cloak @protection
+[1] Gods Willing @protection
+[1] Professor's Warning @protection
+[1] Eerie Interlude @protection
+
+
+///////////////////////////////////////
+//// Misc
+[1] Grave Betrayal
+[1] Lorcan, Warlock Collector
+[1] Neko-Te
+[1] Burning Anger
+[1] Shadowspear
+[1] Loxodon Warhammer
+[1] Trailblazer's Boots
+
+
+///////////////////////////////////////
+//// Lands
+// Colorless
+  [1] Myriad Landscape @ramp
+  [1] Tectonic Edge
+  [1] Scavenger Grounds @graveyard_hate
+  [1] Rogue's Passage
+// 3 colors
+  [1] Terramorphic Expanse
+  [1] Evolving Wilds
+  [1] Command Tower
+  [1] Exotic Orchard
+  [1] Nomad Outpost
+// 2 colors: Rakdos
+  [1] Rakdos Carnarium
+// 2 colors: Boros
+  [1] Boros Garrison
+// 2 colors: Orzhov
+  [1] Orzhov Basilica
+// 1 color
+  [1] Bojuka Bog @graveyard_hate
+  [1] Malakir Rebirth @protection
+  [8] Swamp
+  [8] Mountain
+  [7] Plains
+
+
+//// Removed
+// Burnished Hart @ramp
+// Sparring Regimen @untap
+// Vanquish the Horde @wipe
+// Despark @permanent_removal
+// Slaughter Specialist @ping_fodder
+// Goblin Spymaster @ping_fodder
+// Sheltering Light @protection
+// Village Rites @draw
+// Acorn Catapult @ping_fodder
+// Akroma's Will
+// Shelter @protection
+// Mythos of Snapdax @creature_finisher @wipe
+// Damn @creature_removal @wipe
+// Sign in Blood @draw

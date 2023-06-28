@@ -1,0 +1,144 @@
+[1] Octavia, Living Thesis
+
+
+///////////////////////////////////////
+//// Ramp
+[1] Sword of the Animist @ramp
+[1] Retraced Image @ramp
+[1] Mitotic Manipulation @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Rain of Revelation @draw
+[1] Fact or Fiction @draw @mill
+[1] Chemister's Insight @draw
+[1] Archmage Emeritus @draw @spellslinger_payoff
+[1] Chart a Course @draw
+[1] Mask of Memory @draw
+[1] Reconnaissance Mission @draw
+[1] Teferi's Ageless Insight @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Inundate @wipe
+[1] Spectral Deluge @wipe
+[1] Pongify @creature_removal
+[1] Rapid Hybridization @creature_removal
+[1] Reality Shift @creature_removal
+[1] Resculpt @creature_removal
+[1] Imprisoned in the Moon @creature_removal
+[1] Wipe Away @permanent_removal
+
+
+///////////////////////////////////////
+//// Counters
+[1] Foil @counter
+[1] Pact of Negation @counter
+[1] Counterspell @counter
+[1] Unwind @counter
+[1] Arcane Denial @counter
+[1] Swan Song @counter
+
+
+///////////////////////////////////////
+//// Cantrip
+[1] Opt @cantrip
+[1] Brainstorm @cantrip
+[1] Thought Scour @cantrip
+[1] Mental Note @cantrip
+[1] Anticipate @cantrip
+[1] Impulse @cantrip
+[1] Telling Time @cantrip
+[1] Curate @cantrip
+[1] Deliberate @cantrip
+[1] Think Twice @cantrip
+[1] Preordain @cantrip
+[1] Serum Visions @cantrip
+[1] Strategic Planning @cantrip @mill
+
+
+///////////////////////////////////////
+//// Hitters with Evasion
+[1] Mist-Cloaked Herald @hitter
+[1] Triton Shorestalker @hitter
+[1] Cloudkin Seer @hitter
+[1] Nightveil Sprite @hitter
+[1] Pilgrim's Eye @hitter
+[1] Invisible Stalker @hitter
+[1] Blighted Agent @hitter
+[1] Looter il-Kor @hitter
+[1] Escape Artist @hitter
+[1] Thada Adel, Acquisitor @hitter
+[1] Siren Stormtamer @hitter
+[1] Thieving Skydiver @hitter
+[1] Talrand, Sky Summoner @spellslinger_payoff @hitter
+[1] Murmuring Mystic @spellslinger_payoff @hitter
+[1] Niblis of Frost  @spellslinger_payoff @hitter
+
+
+///////////////////////////////////////
+//// Mill
+[1] Otherworldly Gaze @mill
+[1] Hedron Crab @mill
+[1] Leadership Vacuum @mill
+[1] Brain Freeze @mill
+[1] Rebuild @mill
+[1] Compelling Argument @mill
+[1] Dream Twist @mill
+
+
+///////////////////////////////////////
+//// Misc
+[1] Narset's Reversal
+[1] Grafted Exoskeleton
+[1] Environmental Sciences
+[1] Frantic Search @mill
+
+
+///////////////////////////////////////
+//// Lands
+[01] Myriad Landscape @ramp
+[01] Scavenger Grounds
+[01] Tyrite Sanctum
+[01] War Room
+[01] Mystic Sanctuary
+[01] Jwari Disruption // Jwari Ruins
+[01] Castle Vantress
+[28] Island
+
+
+
+
+///////////////////////////////////////
+//// Removed
+// Tome Raider
+// Sleight of Hand
+// Radical Idea
+// Portent
+// Truth or Tale
+// Dig Through Time
+// Keep Safe
+// Peek
+// Cyclonic Rift
+// Shadow Rift
+// Solve the Equation
+// Depart the Realm
+// Dive Down
+// Slippery Scoundrel
+// Skyscanner
+// Dowsing Dagger
+// Slither Blade
+// Gudul Lurker
+// Fractic Search
+// Ravenform
+// Twincast
+// Ponder
+// Sly Instigator @hitter
+// Bident of Thassa @draw
+// Coastal Piracy @draw
+// Chronic Flooding @mill
+// Perpetual Timepiece
+// Court of Cunning
+// Drowned Secrets

@@ -1,113 +1,132 @@
-[1] Atris, Oracle of Half-Truths {manacost: "{2}{U}{B}", colors: "UB", types: [Creature], cmc: 4.00} @etb @self_mill
+//[1] Atris, Oracle of Half-Truths @etb @self_mill
+[1] Gyruda, Doom of Depths @etb @self_mill
 
 // Ramp
-[1] Sol Ring {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
-[1] Dimir Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Talisman of Dominance {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Arcane Signet {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Wayfarer's Bauble {manacost: "{1}", colors: "", types: [Artifact], cmc: 1.00} @ramp
-[1] Coldsteel Heart {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Prismatic Lens {manacost: "{2}", colors: "", types: [Artifact], cmc: 2.00} @ramp
-[1] Solemn Simulacrum {manacost: "{4}", colors: "", types: [Artifact, Creature], cmc: 4.00} @ramp @etb
-[1] Deranged Assistant {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @ramp @self_mill
-[1] Millikin {manacost: "{2}", colors: "", types: [Artifact, Creature], cmc: 2.00} @ramp @self_mill
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Dimir Signet @ramp
+[1] Prismatic Lens @ramp
+[1] Arcane Signet @ramp
+[1] Coldsteel Heart @ramp
+[1] Fellwar Stone @ramp
+[1] Solemn Simulacrum @ramp @etb
+[1] Deranged Assistant @ramp @self_mill
+[1] Millikin @ramp @self_mill
 
 // Draw
-[1] Mulldrifter {manacost: "{4}{U}", colors: "U", types: [Creature], cmc: 5.00} @draw @etb
-[1] Notion Thief {manacost: "{2}{U}{B}", colors: "UB", types: [Creature], cmc: 4.00} @draw @etb
-[1] Sphinx of Uthuun {manacost: "{5}{U}{U}", colors: "U", types: [Creature], cmc: 7.00} @draw @etb @self_mill
-[1] Unesh, Criosphinx Sovereign {manacost: "{4}{U}{U}", colors: "U", types: [Creature], cmc: 6.00} @draw @etb @self_mill
-[1] Fact or Fiction {manacost: "{3}{U}", colors: "U", types: [Instant], cmc: 4.00} @draw @self_mill
-[1] Forbidden Alchemy {manacost: "{2}{U}", colors: "U", types: [Instant], cmc: 3.00} @draw @self_mill
-[1] Infernal Offering {manacost: "{4}{B}", colors: "B", types: [Sorcery], cmc: 5.00} @draw @reanimate
-[1] Read the Runes {manacost: "{X}{U}", colors: "U", types: [Instant], cmc: 1.00} @draw @self_mill
+[1] Mulldrifter @draw @etb
+[1] Master of Winds @draw @etb
+[1] Sphinx of Uthuun @draw @etb @self_mill @big_reanimation_target
+[1] Unesh, Criosphinx Sovereign @draw @etb @self_mill
+[1] Fact or Fiction @draw @self_mill
+[1] Infernal Offering @draw @reanimate
+[1] Rain of Revelation @draw @self_mill
+[1] Frantic Search @draw @self_mill
 
 // Wipes & Removal
-[1] Flood of Tears {manacost: "{4}{U}{U}", colors: "U", types: [Sorcery], cmc: 6.00} @creature_wipe
-[1] Living Death {manacost: "{3}{B}{B}", colors: "B", types: [Sorcery], cmc: 5.00} @creature_wipe @reanimate
-[1] Massacre Girl {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00} @creature_wipe
-[1] Reality Shift {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @creature_removal
-[1] Duplicant {manacost: "{6}", colors: "", types: [Artifact, Creature], cmc: 6.00} @creature_removal @etb
-[1] Noxious Gearhulk {manacost: "{4}{B}{B}", colors: "B", types: [Artifact, Creature], cmc: 6.00} @creature_removal @etb
-[1] Ravenous Chupacabra {manacost: "{2}{B}{B}", colors: "B", types: [Creature], cmc: 4.00} @creature_removal @etb
-[1] Shriekmaw {manacost: "{4}{B}", colors: "B", types: [Creature], cmc: 5.00} @creature_removal @etb
-[1] Dream Eater {manacost: "{4}{U}{U}", colors: "U", types: [Creature], cmc: 6.00} @permanent_removal @surveil @etb
-[1] Meteor Golem {manacost: "{7}", colors: "", types: [Artifact, Creature], cmc: 7.00} @permanent_removal @etb
-[1] Patron of the Vein {manacost: "{4}{B}{B}", colors: "B", types: [Creature], cmc: 6.00} @creature_removal @etb
+[1] Living Death @creature_wipe @reanimate
+[1] Massacre Girl @creature_wipe
+[1] Reality Shift @creature_removal
+[1] Pongify @creature_removal
+[1] Rapid Hybridization @creature_removal
+[1] Amphin Mutineer @creature_removal @etb
+[1] Duplicant @creature_removal @etb
+[1] Ravenous Chupacabra @creature_removal @etb
+[1] Noxious Gearhulk @creature_removal @etb
+[1] Shriekmaw @creature_removal @etb
 
 // Clones
-[1] Clever Impersonator {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @clone
-[1] Evil Twin {manacost: "{2}{U}{B}", colors: "UB", types: [Creature], cmc: 4.00} @clone
-[1] Phyrexian Metamorph {manacost: "{3}{U/P}", colors: "U", types: [Artifact, Creature], cmc: 4.00} @clone
-[1] Sakashima's Student {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @clone
-[1] Spark Double {manacost: "{3}{U}", colors: "U", types: [Creature], cmc: 4.00} @clone
-[1] Stunt Double {manacost: "{3}{U}", colors: "U", types: [Creature], cmc: 4.00} @clone
+[1] Clever Impersonator @clone
+[1] Evil Twin @clone
+[1] Phyrexian Metamorph @clone
+[1] Phantasmal Image @clone
+[1] Spark Double @clone
+[1] Stunt Double @clone
+[1] Vizier of Many Faces @clone
+[1] Mirrorhall Mimic @clone
 
 // Flicker
-[1] Conjurer's Closet {manacost: "{5}", colors: "", types: [Artifact], cmc: 5.00} @flicker
-[1] Thassa, Deep-Dwelling {manacost: "{3}{U}", colors: "U", types: [Enchantment, Creature], cmc: 4.00} @flicker
-[1] Deadeye Navigator {manacost: "{4}{U}{U}", colors: "U", types: [Creature], cmc: 6.00} @flicker
-[1] Identity Thief {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @flicker
-[1] Displace {manacost: "{2}{U}", colors: "U", types: [Instant], cmc: 3.00} @flicker
-[1] Essence Flux {manacost: "{U}", colors: "U", types: [Instant], cmc: 1.00} @flicker
-[1] Ghostly Flicker {manacost: "{2}{U}", colors: "U", types: [Instant], cmc: 3.00} @flicker
-[1] Teferi's Time Twist {manacost: "{1}{U}", colors: "U", types: [Instant], cmc: 2.00} @flicker
+[1] Conjurer's Closet @flicker
+[1] Thassa, Deep-Dwelling @flicker
+[1] Deadeye Navigator @flicker
+[1] Identity Thief @flicker
+[1] Displace @flicker
+[1] Essence Flux @flicker
+[1] Ghostly Flicker @flicker
 
 // Reanimation
-[1] Dimir Doppelganger {manacost: "{1}{U}{B}", colors: "UB", types: [Creature], cmc: 3.00} @reanimate
-[1] Wake the Dead {manacost: "{X}{B}{B}", colors: "B", types: [Instant], cmc: 2.00} @reanimate
-[1] Phyrexian Delver {manacost: "{3}{B}{B}", colors: "B", types: [Creature], cmc: 5.00} @reanimate @etb
-[1] Animate Dead {manacost: "{1}{B}", colors: "B", types: [Enchantment], cmc: 2.00} @reanimate
-[1] Victimize {manacost: "{2}{B}", colors: "B", types: [Sorcery], cmc: 3.00} @reanimate
-[1] Blood for Bones {manacost: "{3}{B}", colors: "B", types: [Sorcery], cmc: 4.00} @reanimate @flicker
-[1] Body Double {manacost: "{4}{U}", colors: "U", types: [Creature], cmc: 5.00} @reanimate @etb
+[1] Body Double @reanimate @etb
+[1] Animate Dead @reanimate
+[1] Phyrexian Delver @reanimate @etb
+[1] Young Necromancer @reanimate @etb
+[1] Blood for Bones @reanimate @flicker
+[1] Rescue from the Underworld @reanimate @flicker
+[1] Whip of Erebos @reanimate
+[1] Dreams of the Dead @reanimate
 
-// Surveil & Self Mill
-[1] Dimir Informant {manacost: "{2}{U}", colors: "U", types: [Creature], cmc: 3.00} @surveil @etb
-[1] Nightveil Sprite {manacost: "{1}{U}", colors: "U", types: [Creature], cmc: 2.00} @surveil
-[1] Gyruda, Doom of Depths {manacost: "{4}{U/B}{U/B}", colors: "UB", types: [Creature], cmc: 6.00} @self_mill @etb
+// Self-Mill
+[1] Master of Death @self_mill @etb
+[1] Buried Alive @self_mill
+[1] Forbidden Alchemy @self_mill
 
 // ETBs
-[1] Archaeomancer {manacost: "{2}{U}{U}", colors: "U", types: [Creature], cmc: 4.00} @etb
-[1] Possessed Skaab {manacost: "{3}{U}{B}", colors: "UB", types: [Creature], cmc: 5.00} @etb
-[1] Rune-Scarred Demon {manacost: "{5}{B}{B}", colors: "B", types: [Creature], cmc: 7.00} @etb
-[1] Diluvian Primordial {manacost: "{5}{U}{U}", colors: "U", types: [Creature], cmc: 7.00} @etb @big_reanimation_target
-[1] Sepulchral Primordial {manacost: "{5}{B}{B}", colors: "B", types: [Creature], cmc: 7.00} @etb @big_reanimation_target
+[1] Demonlord Belzenlok @etb
+[1] Burning-Rune Demon @etb @big_reanimation_target
+[1] Massacre Wurm @etb @big_reanimation_target
+[1] Demon of Dark Schemes @etb @big_reanimation_target
+[1] Sepulchral Primordial @etb @big_reanimation_target
 
 // Misc
-[1] Panharmonicon {manacost: "{4}", colors: "", types: [Artifact], cmc: 4.00}
-[1] Crystal Shard {manacost: "{3}", colors: "", types: [Artifact], cmc: 3.00}
-[1] Portal of Sanctuary {manacost: "{2}{U}", colors: "U", types: [Artifact], cmc: 3.00}
+[1] Panharmonicon
+[1] Jin-Gitaxias, Core Augur @big_reanimation_target
 
 // Lands
-[01] Ghost Quarter {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Tectonic Edge {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Scavenger Grounds {manacost: "", colors: "", types: [Land], cmc: 0.00} @grave_hate
-[01] Geier Reach Sanitarium {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Nephalia Drownyard {manacost: "", colors: "", types: [Land], cmc: 0.00} @self_mill
-[01] Sanctum of Eternity {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Drownyard Temple {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Dakmor Salvage {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Crypt of Agadeem {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Mortuary Mire {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Bojuka Bog {manacost: "", colors: "", types: [Land], cmc: 0.00} @grave_hate
-[01] Castle Vantress {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Mystic Sanctuary {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Moonring Island {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Halimar Depths {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Choked Estuary {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Dimir Aqueduct {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Sunken Hollow {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Tainted Isle {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Temple of Deceit {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[01] Underground River {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[10] Island {manacost: "", colors: "", types: [Land], cmc: 0.00}
-[07] Swamp {manacost: "", colors: "", types: [Land], cmc: 0.00}
+[01] Ghost Quarter
+[01] Tectonic Edge
+[01] Scavenger Grounds @grave_hate
+[01] Nephalia Drownyard @self_mill
+[01] Sanctum of Eternity
+[01] Drownyard Temple
+[01] Dakmor Salvage
+[01] Command Tower
+[01] Myriad Landscape
+[01] Choked Estuary
+[01] Sunken Hollow
+[01] Temple of Deceit
+[01] Bojuka Bog @grave_hate
+[01] Port of Karfell @reanimate
+[01] Dimir Aqueduct
+[12] Island
+[11] Swamp
 
 
-// Removed
+
+///////////////////////////////////////
+//// Removed
 // Notion Rain
 // Gray Merchant of Asphodel
 // Scourge of Fleets
 // Overseer of the Damned
 // Sheoldred, Whispering One
+// Portal of Sanctuary
+// Nightveil Sprite
+// Flood of Tears
+// Buried Alive
+// Dimir Informant
+// Possessed Skaab
+// Crystal Shard
+// Gyruda, Doom of Depths
+// Memory Plunder
+// Dimir Doppelganger
+// Animate Dead
+// Meteor Golem
+// Goremand
+// Notion Thief
+// Dream Eater
+// Archaeomancer
+// Overseer of the Damned
+// Patron of the Vein
+// Infinite Reflection
+// Teferi's Time Twist
+// Stitcher's Supplier
+// Wake the Dead

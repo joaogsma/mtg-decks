@@ -1,0 +1,138 @@
+  [1] Archelos, Lagoon Mystic
+
+// - Vesuva
+// + Swamp
+// + Jadzi, Oracle of Arcavios // Journey to the Oracle
+
+
+///////////////////////////////////////
+//// Ramp
+  [1] Karametra's Favor @ramp @tap
+  [1] Elvish Rejuvenator @ramp
+  [1] Circuitous Route @ramp @gate_fetch
+  [1] Explore the Underdark @ramp @gate_fetch
+  [1] Hour of Promise @ramp @gate_fetch
+  [1] Navigation Orb @ramp @gate_fetch
+  [1] Pir's Whim @ramp @gate_fetch
+  [1] Cartographer's Survey @ramp @gate_fetch
+  [1] Ulvenwald Hydra @ramp @gate_fetch
+  [1] Reap and Sow @ramp @gate_fetch
+
+
+///////////////////////////////////////
+//// Draw
+  [1] Eureka Moment @draw @ramp
+  [1] Urban Evolution @draw @ramp
+  [1] Blood Pact @draw
+  [1] Notion Thief @draw
+  [1] Painful Truths @draw
+  [1] Behold the Multiverse @draw
+  [1] Read the Bones @draw
+  [1] Pull from Tomorrow @draw @big_spell
+  [1] Illusory Ambusher @draw
+  [1] Pointed Discussion @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+  [1] Deadly Tempest @wipe
+  [1] Decree of Pain @wipe
+  [1] Toxic Deluge @wipe
+  [1] Infernal Grasp @creature_removal
+  [1] Hero's Downfall @creature_removal
+  [1] Assassin's Trophy @permanent_removal
+  [1] Beast Within @permanent_removal
+  [1] Casualties of War @permanent_removal
+  [1] Maelstrom Pulse @permanent_removal
+  [1] Windgrace's Judgment @permanent_removal
+  [1] Pact of Negation @counter
+  [1] Arcane Denial @counter
+  [1] Negate @counter
+  [1] Swan Song @counter
+  [1] An Offer You Can't Refuse @counter
+
+
+///////////////////////////////////////
+//// Gate Fetchers
+  [1] Open the Gates @gate_fetch
+  [1] Crop Rotation @gate_fetch
+  [1] Elvish Reclaimer @gate_fetch
+  [1] District Guide @gate_fetch
+  [1] Gatecreeper Vine @gate_fetch
+  [1] Expedition Map @gate_fetch
+  [1] Kura, the Boundless Sky @gate_fetch
+  [1] Reshape the Earth @gate_fetch
+  [1] Scapeshift @gate_fetch
+  [1] Sylvan Scrying @gate_fetch
+  [1] Nylea's Intervention @gate_fetch
+
+
+///////////////////////////////////////
+//// Graveyard Recursion
+  [1] Noxious Revival @graveyard_recursion
+  [1] Regrowth @graveyard_recursion
+  [1] Eternal Witness @graveyard_recursion
+  [1] Treasured Find @graveyard_recursion
+  [1] Splendid Reclamation @graveyard_recursion
+
+
+///////////////////////////////////////
+//// Big Spells
+  [1] Villainous Wealth @big_spell
+  [1] Mnemonic Deluge @big_spell
+  [1] Animist's Awakening @big_spell
+  [1] Avenger of Zendikar @big_spell
+  [1] Nezahal, Primal Tide @big_spell
+
+
+///////////////////////////////////////
+//// Misc
+  [1] Leyline of Anticipation
+  [1] Swarm Intelligence @big_spell
+  [1] Rampaging Baloths
+  [1] Solve the Equation
+  [1] Spelltwine
+  [1] Summer Bloom
+  [1] Standstill
+
+
+///////////////////////////////////////
+//// Lands
+// Gates
+    [1] Baldur's Gate @gate
+    [1] Heap Gate @gate
+    [1] Basilisk Gate @gate
+    [1] Gateway Plaza @gate
+    [1] Gond Gate @gate
+    [1] Black Dragon Gate @gate
+    [1] Manor Gate @gate
+    [1] Sea Gate @gate
+    [1] Simic Guildgate @gate
+    [1] Golgari Guildgate @gate
+    [1] Dimir Guildgate @gate
+// Bouncelands
+    [1] Golgari Rot Farm
+    [1] Simic Growth Chamber
+    [1] Dimir Aqueduct
+// Other
+    [1] Maze's End
+    [1] Glacial Chasm
+    [1] Myriad Landscape @ramp
+    [1] Scavenger Grounds @graveyard_hate
+    [1] Ghost Quarter
+    [1] Command Tower
+    [1] Terramorphic Expanse
+    [1] Evolving Wilds
+    [1] Survivors' Encampment @tap
+    [1] Holdout Settlement @tap
+    [1] Bojuka Bog @graveyard_hate
+    [1] Bala Ged Recovery // Bala Ged Sanctuary @graveyard_recursion
+    [1] Mystic Sanctuary
+    [1] Tolaria West @gate_fetch
+    [1] Swamp
+    [2] Island
+    [5] Forest
+
+
+
+//// Removed

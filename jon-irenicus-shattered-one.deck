@@ -1,0 +1,135 @@
+[1] Jon Irenicus, Shattered One
+
+
+///////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Dimir Signet @ramp
+[1] Arcane Signet @ramp
+[1] Fellwar Stone @ramp
+[1] Prismatic Lens @ramp
+[1] Coldsteel Heart @ramp
+[1] Solemn Simulacrum @ramp @etb
+[1] Mind Stone @ramp
+[1] Sky Diamond @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Mulldrifter @draw @etb
+[1] Infernal Offering @draw @blink @reanimate
+[1] Meeting of Minds @draw
+[1] Sign in Blood @draw
+[1] Candlekeep Sage @draw
+[1] Phyrexian Arena @draw
+[1] Sphinx of Uthuun @draw @etb
+[1] Unesh, Criosphinx Sovereign @draw @etb
+[1] Master of Winds @draw @etb
+[1] Sphinx of Enlightenment @draw @etb
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Evacuation @wipe
+[1] Massacre Girl @wipe
+[1] Pongify @creature_removal
+[1] Rapid Hybridization @creature_removal
+[1] Reality Shift @creature_removal
+[1] Amphin Mutineer @creature_removal @etb
+[1] Duplicant @creature_removal @etb
+[1] Ravenous Chupacabra @creature_removal @etb
+[1] Noxious Gearhulk @creature_removal @etb
+[1] Ertai Resurrected @etb @creature_removal
+
+
+///////////////////////////////////////
+//// ETBs
+[1] Archaeomancer @etb
+[1] Torrential Gearhulk @etb
+[1] Author of Shadows @etb @graveyard_hate
+[1] Halo Forager @etb
+[1] Baleful Strix @etb
+[1] Puppeteer Clique @etb
+[1] Young Necromancer @reanimate @etb
+[1] Dragonlord Silumgar @etb
+[1] Diluvian Primordial @etb
+[1] Massacre Wurm @etb
+[1] Gonti, Lord of Luxury @etb
+[1] Priest of the Blood Rite @etb
+
+
+///////////////////////////////////////
+//// Blink
+// Recurrent
+  [1] Conjurer's Closet @blink
+  [1] Thassa, Deep-Dwelling @blink
+  [1] Deadeye Navigator @blink
+  [1] Displacer Kitten @blink
+  [1] Golden Argosy @blink
+  [1] Fool's Demise @blink
+// One-of
+  [1] Ghostly Flicker @blink
+  [1] Displace @blink
+  [1] Essence Flux @blink
+  [1] Feign Death @blink
+  [1] Supernatural Stamina @blink
+  [1] Undying Malice @blink
+  [1] Planar Incision @blink
+  [1] Teferi's Time Twist @blink
+
+
+///////////////////////////////////////
+//// Misc
+[1] Whip of Erebos @reanimate
+[1] Dreams of the Dead @reanimate
+[1] Panharmonicon
+[1] Flux Channeler
+[1] Cauldron of Souls
+
+
+///////////////////////////////////////
+//// Lands
+[1] Myriad Landscape @ramp
+[1] Tectonic Edge
+[1] Ghost Quarter
+[1] Scavenger Grounds @graveyard_hate
+[1] Command Tower
+[1] Dimir Guildgate
+[1] Temple of Deceit
+[1] Sunken Hollow
+[1] Choked Estuary
+[1] Port of Karfell @reanimate
+[1] Bojuka Bog @graveyard_hate
+[1] Malakir Rebirth // Malakir Mire @blink
+
+[14] Island
+[12] Swamp
+
+
+
+
+
+///////////////////////////////////////
+//// Removed
+// Mirror Mockery
+// Identity Thief @blink
+// Ravenform @creature_removal
+// Resculpt @creature_removal @artifact_removal
+// Mimic Vat
+// Abyssal Persecutor
+// Fact or Fiction @draw
+// Shriekmaw @creature_removal @etb
+// Infernal Grasp @creature_removal
+// Blur @blink
+// Deadly Tempest @wipe
+// Voyager Staff @blink
+// Shipwreck Dowser
+// Blood for Bones @reanimate @blink
+// Burning-Rune Demon @etb
+// Rain of Revelation @draw
+// Soul Separator @reanimate
+// Kaya's Ghostform @blink
+// Siren's Ruse @blink
+// Abhorrent Overlord
+// Demonlord Belzenlok @etb

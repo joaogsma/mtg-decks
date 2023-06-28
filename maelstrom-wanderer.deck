@@ -1,0 +1,141 @@
+[1] Maelstrom Wanderer
+
+///////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Fertile Ground @ramp
+[1] Utopia Sprawl @ramp
+[1] Gift of Paradise @ramp
+[1] New Horizons @ramp
+[1] Weirding Wood @ramp
+[1] Empowered Autogenerator @ramp
+[1] Arixmethes, Slumbering Isle @tap @ramp
+[1] Dreamscape Artist @tap @ramp
+
+
+///////////////////////////////////////
+//// Draw
+[1] Arcanis the Omnipotent @draw @tap
+[1] Archivist @draw @tap
+[1] Ocular Halo @draw @tap
+[1] Oracle's Insight @draw @tap
+[1] Quicksilver Dagger @tap @draw
+[1] Chemister's Insight @draw
+[1] Humble Defector @tap @draw
+[1] Mercurial Chemister @tap @draw
+[1] Niv-Mizzet, the Firemind @tap @draw
+[1] Rain of Revelation @draw
+
+
+///////////////////////////////////////
+//// Wipes & Removal
+[1] Nevinyrral's Disk @wipe
+[1] Blasphemous Act @wipe
+[1] Pongify @creature_removal
+[1] Rapid Hybridization @creature_removal
+[1] Kenrith's Transformation @creature_removal
+[1] Dismiss into Dream @creature_removal
+[1] Ovinomancer @tap @creature_removal
+[1] Chaos Warp @permanent_removal
+[1] Beast Within @permanent_removal
+[1] Nullmage Advocate @tap @artifact_removal @enchantment_removal
+[1] Glissa Sunseeker @tap @artifact_removal
+[1] Viashino Heretic @tap @artifact_removal
+
+
+///////////////////////////////////////
+//// Things that Tap
+// Artifacts
+  [1] Cauldron of Souls @tap
+  [1] Mimic Vat @tap
+// Creatures
+  [1] Serendib Sorcerer @tap
+  [1] Sly Instigator @tap
+  [1] Brash Taunter @tap
+  [1] Bloom Tender @tap
+  [1] Feldon of the Third Path @tap
+  [1] Kiki-Jiki, Mirror Breaker @tap
+  [1] Fable of the Mirror-Breaker @tap
+  [1] Experiment Kraj @tap
+  [1] Djinn of Infinite Deceits @tap
+  [1] Courtly Provocateur @tap
+  [1] Krenko, Mob Boss @tap
+  [1] Kamahl, Pit Fighter @tap
+
+
+///////////////////////////////////////
+//// Untappers
+// Untaps creatures and artifacts
+  [1] Seedborn Muse @untapper
+  [1] Kiora's Follower @untapper
+  [1] Fatestitcher @untapper
+  [1] Vizier of Tumbling Sands @untapper
+  [1] Aphetto Alchemist @untapper
+  [1] Kelpie Guide @untapper
+// Untaps creatures
+  [1] Murkfiend Liege @untapper
+  [1] Thousand-Year Elixir @untapper @haste
+  [1] Freed from the Real @untapper
+  [1] Pemmin's Aura @untapper
+  [1] Retreat to Coralhelm @untapper
+  [1] Chakram Retriever @untapper
+  [1] Magewright's Stone @untapper
+  [1] Saryth, the Viper's Fang @untapper
+  [1] Seeker of Skybreak @untapper
+
+
+///////////////////////////////////////
+//// Haste
+[1] Fervor @haste
+[1] Rhythm of the Wild @haste
+[1] Fires of Yavimaya @haste
+
+
+///////////////////////////////////////
+//// Misc
+[1] Willbreaker
+
+
+///////////////////////////////////////
+//// Lands
+// Utility Lands
+  [1] Ghost Quarter
+  [1] Tectonic Edge
+  [1] Scavenger Grounds
+  [1] Myriad Landscape @ramp
+  [1] Blighted Woodland @ramp
+  [1] Hanweir Battlements @haste
+// 3 color lands
+  [1] Ash Barrens
+  [1] Terramorphic Expanse
+  [1] Evolving Wilds
+  [1] Frontier Bivouac
+  [1] Command Tower
+// Dual lands
+// Mono-colored lands
+  [1] Flamekin Village @haste
+  [1] Minamo, School at Water's Edge
+// Basic lands
+  [8] Island
+  [8] Forest
+  [8] Mountain
+
+
+
+
+///////////////////////////////////////
+//// Removed
+// Hammer of Purphoros @haste
+// Invigorating Hot Spring @haste
+// Tuktuk Rubblefort @haste
+// Rionya, Fire Dancer @haste
+// Resculpt @creature_removal @artifact_removal
+// Opposition @tap
+// Intruder Alarm @untapper
+// Vandalblast @artifact_removal
+// Temur Ascendancy @haste
+// Verdant Haven @ramp
+// Crackleburr @untapper
+// Krosan Grip @artifact_removal @enchantment_removal
+// Reality Shift @creature_removal
+// Crystal Ball @tap
