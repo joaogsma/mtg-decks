@@ -6,124 +6,122 @@
 
 ///////////////////////////////////////
 //// Ramp
-// Tenho
-  [1] Dimir Signet @ramp
-  [1] Sol Ring @ramp
-  [1] Arcane Signet @ramp
-  [1] Izzet Signet @ramp
-// Comprados
-  [1] Rakdos Signet @ramp
-  [1] Patriar's Seal @ramp
-  [1] Cursed Mirror @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Sol Ring @ramp
+[1] Arcane Signet @ramp
+[1] Dimir Signet @ramp
+[1] Izzet Signet @ramp
+[1] Rakdos Signet @ramp
+[1] Patriar's Seal @ramp
+[1] Cursed Mirror @ramp
 
 
 ///////////////////////////////////////
 //// Draw
-// Comprados
-  [1] Painful Truths @draw
-  [1] Chemister's Insight @draw
-  [1] Syphon Mind @draw
-// Tenho
-  [1] Rain of Revelation @draw @discard
-  [1] Infernal Offering @draw @dance
-  [1] Mulldrifter @draw @dancing_partner
-  [1] Arcanis, the Omnipotent @draw @dancing_partner
-  [1] Pull from Tomorrow @draw @discard
-  [1] Frantic Search @draw @discard
-  [1] Behold the Multiverse @draw
+[1] Painful Truths @draw
+[1] Chemister's Insight @draw
+[1] Syphon Mind @draw
+[1] Rain of Revelation @draw @discard
+[1] King Narfi's Betrayal @draw @discard
+[1] Frantic Search @draw @discard
+[1] Notion Thief @draw
+[1] Infernal Offering @draw @dance
+[1] Mulldrifter @draw @dancing_partner
+[1] Arcanis, the Omnipotent @draw @dancing_partner
 
 
 ///////////////////////////////////////
 //// Wipes & Removal
-// Comprados
-  [1] Flood of Tears @dance @wipe
-  [1] Blood on the Snow @dance @wipe
-  [1] Infernal Grasp @creature_removal
-  [1] Chaos Warp @permanent_removal
-  [1] Kolaghan's Command @artifact_removal
-  [1] Vandalblast @artifact_removal
-// Tenho
-  [1] Baleful Mastery @creature_removal
-  [1] Reality Shift @creature_removal
-  [1] Go for the Throat @creature_removal
-  [1] Pongify @creature_removal
+[1] Flood of Tears @dance @wipe
+[1] Blood on the Snow @dance @wipe
+[1] Infernal Grasp @creature_removal
+[1] Chaos Warp @permanent_removal
+[1] Kolaghan's Command @artifact_removal
+[1] Vandalblast @artifact_removal
+[1] Imprisoned in the Moon @creature_removal
+[1] Reality Shift @creature_removal
+[1] Rapid Hybridization @creature_removal
+[1] Pongify @creature_removal
 
 
 ///////////////////////////////////////
 //// protection
-// Comprados
-  [1] Howl of the Horde @protection
-  [1] Negate @protection
-  [1] Galvanic Iteration @protection
+[1] Howl of the Horde @protection
+[1] Teach by Example @protection
+[1] Galvanic Iteration @protection
 
 
 ///////////////////////////////////////
 //// Dances
-// Comprados
-  [1] Ghouls' Night Out @dance
-  [1] Danse Macabre @dance @edict
-  [1] Grave Endeavor @dance
-  [1] Incarnation Technique @dance
-// Tenho
-  [1] Victimize @dance
-  [1] Blood for Bones @dance
-  [1] Cauldron Dance @dance
+[1] Ghouls' Night Out @dance
+[1] Danse Macabre @dance @edict
+[1] Grave Endeavor @dance
+[1] Incarnation Technique @dance
+[1] Blood for Bones @dance
+[1] Victimize @dance
+[1] Cauldron Dance @dance
 [1] Wake the Dead @dance
 
 
 ///////////////////////////////////////
 //// Dancers
-// Comprados
-  [1] Ardent Elementalist @dancer
-  [1] Living Lightning @dancer
-  [1] Kairi, the Swirling Sky @dancer
-// Tenho
-  [1] Archaeomancer @dancer
-  [1] Izzet Chronarch @dancer
-  [1] Shipwreck Dowser @dancer
-  [1] Salvager of Secrets @dancer
-  [1] Mnemonic Wall @dancer
+[1] Ardent Elementalist @dancer
+[1] Living Lightning @dancer
+[1] Kairi, the Swirling Sky @dancer
+[1] Archaeomancer @dancer
+[1] Izzet Chronarch @dancer
+[1] Shipwreck Dowser @dancer
+[1] Salvager of Secrets @dancer
+[1] Mnemonic Wall @dancer
 
 
 ///////////////////////////////////////
 //// Dancing Partners
-// Comprados
-  [1] Baleful Strix @dancing_partner
-  [1] Keiga, the Tide Star @dancing_partner
-// Tenho
-  [1] Junji, the Midnight Sky @dancing_partner
-  [1] Vindictive Lich @dancing_partner
-[1] Balor @dancing_partner
-[1] Kokusho, the Evening Star @dancing_partner
+[1] Hostage Taker @dancing_partner
+[1] Baleful Strix @dancing_partner
+[1] Keiga, the Tide Star @dancing_partner
+[1] Junji, the Midnight Sky @dancing_partner
+[1] Vindictive Lich @dancing_partner
 
 
 ///////////////////////////////////////
 //// Edicts
-// Comprados
-  [1] Virtus's Maneuver @edict
-  [1] Merciless Executioner @edict @dancing_partner
-  [1] Dusk Mangler @edict @dancing_partner
-// Tenho
-  [1] Plaguecrafter @edict @dancing_partner
-  [1] Fleshbag Marauder @edict @dancing_partner
-
+[1] Virtus's Maneuver @edict
+[1] Fleshbag Marauder @edict @dancing_partner
+[1] Merciless Executioner @edict @dancing_partner
+[1] Plaguecrafter @edict @dancing_partner
+[1] Dusk Mangler @edict @dancing_partner
 
 
 ///////////////////////////////////////
 //// Misc
-// Tenho
-  [1] Marchesa, the Black Rose
-  [1] Sneak Attack
-  [1] Cauldron of Souls
-// Comprados
-  [1] Syr Konrad, the Grim
+[1] Sneak Attack
+[1] Marchesa, the Black Rose
+[1] Cauldron of Souls
+[1] Syr Konrad, the Grim
 
 
 ///////////////////////////////////////
 //// Lands
-[13] Snow-Covered Swamp
-[13] Snow-Covered Island
-[12] Snow-Covered Mountain
+[1] Myriad Landscape @ramp
+[1] Command Tower
+[1] Temple of Epiphany
+[1] Temple of Malice
+[1] Dimir Aqueduct
+[1] Rakdos Carnarium
+[1] Scavenger Grounds @graveyard_hate
+[1] Tectonic Edge
+[1] Ghost Quarter
+[1] Terramorphic Expanse
+[1] Evolving Wilds
+[1] Temple of Deceit
+[1] Izzet Boilerworks
+[1] Bojuka Bog @graveyard_hate
+[9] Snow-Covered Swamp
+[8] Snow-Covered Island
+[7] Snow-Covered Mountain
+
+
 
 
 
@@ -152,3 +150,4 @@
 // Dreamscape Artist @ramp @discard
 // Soul Manipulation @protection
 // Solemn Simulacrum @ramp
+// Pull from Tomorrow @draw @discard
