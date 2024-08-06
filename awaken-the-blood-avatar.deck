@@ -69,7 +69,6 @@
 ////////////////////////////////////////////
 //// Avatar Fuel - Repeatable
 [1] Endrek Sahr, Master Breeder @avatar_fuel @repeatable_avatar_fuel
-[1] Assemble the Legion @avatar_fuel @repeatable_avatar_fuel
 [1] Requiem Angel @avatar_fuel @repeatable_avatar_fuel
 [1] Thalisse, Reverent Medium @avatar_fuel @repeatable_avatar_fuel
 [1] Doomed Artisan @avatar_fuel @repeatable_avatar_fuel
@@ -83,7 +82,7 @@
 [1] Song of the Worldsoul @populate
 [1] Ghired's Belligerence @populate
 [1] Rionya, Fire Dancer @populate
-[1] Wake the Reflections @populate
+[1] Determined Iteration @populate
 
 
 ////////////////////////////////////////////
@@ -104,6 +103,7 @@
 [1] Divine Visitation
 [1] Purphoros, God of the Forge
 [1] Descent into Avernus
+[1] City on Fire
 
 
 ////////////////////////////////////////////
@@ -170,3 +170,5 @@
 // Dreadbore
 // Dualcaster Mage @counter_protection
 // Bloodsoaked Altar
+// Wake the Reflections @populate
+// Assemble the Legion

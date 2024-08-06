@@ -1,0 +1,133 @@
+[1] Queen Marchesa
+
+
+////////////////////////////////////////
+//// Ramp
+[1] Sol Ring @ramp
+[1] Wayfarer's Bauble @ramp
+[1] Rakdos Signet @ramp
+[1] Orzhov Signet @ramp
+[1] Boros Signet @ramp
+[1] Arcane Signet @ramp
+[1] Commander's Sphere @ramp
+[1] Sword of the Animist @ramp
+[1] Curse of Opulence @ramp @soft_defense
+[1] Shiny Impetus @ramp @goad
+
+
+////////////////////////////////////////
+//// Draw
+[1] Phyrexian Arena @draw
+[1] Night's Whisper @draw
+[1] Blood Pact @draw
+[1] Stinging Study @draw
+[1] Crushing Disappointment @draw
+[1] Dark Bargain @draw
+[1] Flumph @draw
+[1] Aerial Extortionist @draw
+[1] Smuggler's Share @draw
+[1] Karazikar, the Eye Tyrant @draw @goad @soft_defense
+[1] Nelly Borca, Impulsive Accuser @draw @goad @soft_defense
+[1] Clackbridge Troll @draw
+
+
+////////////////////////////////////////
+//// Wipes & Removal
+[1] Farewell @wipe
+[1] Promise of Loyalty @wipe
+[1] Path to Exile @creature_removal
+[1] Swords to Plowshares @creature_removal
+[1] Infernal Grasp @creature_removal
+[1] Rakdos Charm @artifact_removal @graveyard_hate
+[1] Loran of the Third Path @soft_defense @artifact_removal @enchantment_removal
+[1] Chaos Warp @permanent_removal
+[1] Excavation Technique @permanent_removal
+[1] Anguished Unmaking @permanent_removal
+[1] Despark @permanent_removal
+
+
+////////////////////////////////////////
+//// Soft Defenses (Discourage Attacks)
+[1] Norn's Decree @soft_defense
+[1] Emberwilde Captain @soft_defense @monarch
+[1] Ghostly Prison @soft_defense
+[1] Breena, the Demagogue @soft_defense
+[1] Duelist's Heritage @soft_defense
+[1] Orzhov Advokist @soft_defense
+[1] Agitator Ant @soft_defense @goad
+[1] Brash Taunter @soft_defense
+[1] No Mercy @soft_defense
+[1] Pariah @soft_defense
+
+
+////////////////////////////////////////
+//// Goad
+[1] Kardur, Doomscourge @goad
+[1] Bloodthirsty Blade @goad
+[1] Ghoulish Impetus @goad
+[1] Spectacular Showdown @goad
+[1] Disrupt Decorum @goad
+[1] Vengeful Ancestor @goad
+[1] Taunt from the Rampart @goad
+
+
+////////////////////////////////////////
+//// Fogs
+[1] Master Warcraft @fog
+[1] Selfless Squire @fog
+[1] Inkshield @fog
+[1] Deflecting Palm @fog
+[1] Comeuppance @fog
+[1] Take the Bait @fog
+
+
+////////////////////////////////////////
+//// Misc
+[1] War's Toll
+[1] Chandra, Awakened Inferno
+[1] Descent into Avernus
+[1] Vicious Shadows
+[1] Repercussion
+[1] Nettling Nuisance
+
+
+////////////////////////////////////////
+//// Lands
+[1] Evolving Wilds
+[1] Terramorphic Expanse
+[1] Rogue's Passage
+[1] Access Tunnel
+[1] Mystifying Maze
+[1] Labyrinth of Skophos
+[1] Tectonic Edge
+[1] Ghost Quarter
+[1] Scavenger Grounds @graveyard_hate
+[1] Command Tower
+[1] Grand Coliseum
+[1] Rakdos Carnarium
+[1] Temple of Malice
+[1] Shadowblood Ridge
+[1] Smoldering Marsh
+[1] Orzhov Basilica
+[1] Temple of Silence
+[1] Caves of Koilos
+[1] Boros Garrison
+[1] Temple of Triumph
+[1] Clifftop Retreat
+[1] Battlefield Forge
+[1] Bojuka Bog @graveyard_hate
+[4] Swamp
+[5] Plains
+[5] Mountain
+
+
+
+//// Removed
+// Warmonger Hellkite
+// Skyline Despot @monarch
+// Fumiko the Lowblood
+// Crown of Doom @soft_defense
+// Coronation of Chaos @goad
+// Read the Bones @draw
+// Combat Calligrapher @soft_defense
+// Frontier Warmonger @soft_defense

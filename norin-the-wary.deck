@@ -3,11 +3,9 @@
 ///////////////////////////////////////
 //// Ramp
 [1] Sol Ring @ramp
-[1] Ruby Medallion @ramp
-[1] Cursed Mirror @ramp
+[1] Phial of Galadriel @ramp
 [1] Guild Artisan @ramp
 [1] Rose Room Treasurer @ramp
-[1] Honor-Worn Shaku @ramp
 [1] Relic of Legends @ramp
 
 
@@ -20,6 +18,7 @@
 [1] Outpost Siege @draw
 [1] Urabrask, Heretic Praetor @draw
 [1] Reckless Impulse @draw
+[1] Wrenn's Resolve @draw
 [1] Light Up the Stage @draw
 [1] Inspired Tinkering @draw
 [1] Magus of the Wheel @draw
@@ -73,6 +72,7 @@
 [1] Torbran, Thane of Red Fell @damage_multiplier
 [1] Fiery Emancipation @damage_multiplier
 [1] Angrath's Marauders @damage_multiplier
+[1] City on Fire @damage_multiplier
 
 
 ///////////////////////////////////////
@@ -88,7 +88,7 @@
 [1] Mirage Mirror
 [1] Genesis Chamber
 [1] Territorial Hellkite
-[1] Rite of the Raging Storm
+[1] Insurrection
 
 
 
@@ -137,3 +137,5 @@
 // Wheel of Fate @draw
 // Spitfire Lagac @pinger
 // Arcbond
+// Honor-Worn Shaku @ramp
+// Rite of the Raging Storm
